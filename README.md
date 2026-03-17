@@ -26,6 +26,7 @@ A figura abaixo apresenta uma visão geral do modelo conceitual de CT&I usado ne
 - [Como funciona este projeto OML](#como-funciona-este-projeto-oml)
 - [Preparação do ambiente (Rosetta e workspace)](docs/preparacao.md)
 - [Tutorial 1 – OML Basics (CTI)](docs/tutorial1-cti.md)
+ - [Tutorial 2 – Modelagem gráfica com Sirius (CTI)](docs/tutorial2-sirius-cti.md)
 
 ---
 

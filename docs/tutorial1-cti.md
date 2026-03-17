@@ -916,4 +916,4 @@ Com isso, encerramos o fluxo básico de consultas: criamos um modelo OML para CT
 
 ---
 
-[Voltar ao índice](../README.md#índice)
+[← Voltar ao índice](../README.md#índice)
