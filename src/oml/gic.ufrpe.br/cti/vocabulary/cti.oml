@@ -234,7 +234,7 @@ vocabulary <http://gic.ufrpe.br/cti/vocabulary/cti#> as cti {
 		domain Veiculo_Publicacao
 		range xsd:int
 	]
-	
+
 	scalar property nr_quartil_scopus [
 		domain Veiculo_Publicacao
 		range xsd:int

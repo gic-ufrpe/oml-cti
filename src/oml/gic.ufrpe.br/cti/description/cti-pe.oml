@@ -3,14 +3,12 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 
 	uses <http://purl.org/dc/elements/1.1/> as dc
 
-
 	// Vocabulário principal de CT&I
 	uses <http://gic.ufrpe.br/cti/vocabulary/cti#> as cti
 
 	// ---------------------------------------------------------------------
 	// Instituições de Ciência e Tecnologia (ICT)
 	// ---------------------------------------------------------------------
-
 	instance ict-ufrpe : cti:ICT [
 		cti:cd_entidade_capes "23004"
 		cti:sg_entidade_ensino "UFRPE"
@@ -28,7 +26,6 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 	// ---------------------------------------------------------------------
 	// Programas de Pós-Graduação (PPG) e conceitos CAPES
 	// ---------------------------------------------------------------------
-
 	instance ppg-cti-ufrpe : cti:PPG [
 		cti:cd_programa_ies "23004012001P5"
 		cti:nm_programa_ies "PPG em Ciência, Tecnologia e Inovação"
@@ -60,7 +57,6 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 	// ---------------------------------------------------------------------
 	// Docentes
 	// ---------------------------------------------------------------------
-
 	// Docentes da UFRPE (PPG CTI)
 	instance docente-ana : cti:Docente [
 		cti:id_pessoa 1
@@ -127,7 +123,6 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 	// ---------------------------------------------------------------------
 	// Discentes
 	// ---------------------------------------------------------------------
-
 	// Discentes da UFRPE (PPG CTI)
 	instance discente-bruno : cti:Discente [
 		cti:id_pessoa 7
@@ -165,7 +160,6 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 	// ---------------------------------------------------------------------
 	// Autores (para associar às produções científicas)
 	// ---------------------------------------------------------------------
-
 	instance periodico-cti : cti:Veiculo_Publicacao [
 		cti:nm_veiculo_publicacao "Revista Brasileira de CT&I"
 		cti:ds_isbn_issn "1234-5678"
@@ -179,7 +173,6 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 	// ---------------------------------------------------------------------
 	// Produções científicas (3-5 itens por PPG)
 	// ---------------------------------------------------------------------
-
 	// Produções do PPG CTI (UFRPE)
 	instance artigo-cti-1 : cti:Producao_Cientifica [
 		cti:an_base_producao 2022
@@ -295,7 +288,6 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 	// ---------------------------------------------------------------------
 	// Medidas de citação
 	// ---------------------------------------------------------------------
-
 	instance citacao-ana-2024 : cti:Citacao [
 		cti:an_base_citacao 2024
 		cti:nr_citacoes_autor 25
@@ -305,5 +297,4 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 		cti:an_base_citacao 2024
 		cti:nr_citacoes_autor 40
 	]
-
 }
