@@ -1,0 +1,11 @@
+# Arquivos e pastas gerados pelo macOS
+.DS_Store
+
+# Saída de build do Gradle
+/build/
+/.gradle/
+
+# Arquivos de log ou temporários genéricos
+*.log
+*.tmp
+*~
