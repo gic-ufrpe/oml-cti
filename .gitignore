@@ -9,3 +9,6 @@
 *.log
 *.tmp
 *~
+
+/.settings/
+fuseki.pid

@@ -1,10 +1,14 @@
 @dc:description "Descrição de alguns elementos de CT&I em Pernambuco"
 description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
+	
+	
 
 	uses <http://purl.org/dc/elements/1.1/> as dc
 
 	// Vocabulário principal de CT&I
 	uses <http://gic.ufrpe.br/cti/vocabulary/cti#> as cti
+
+	extends <http://gic.ufrpe.br/cti/description/cti-pe2#> as cti-pe2
 
 	// ---------------------------------------------------------------------
 	// Instituições de Ciência e Tecnologia (ICT)
@@ -246,7 +250,7 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 		cti:ds_orc_id "0000-0001-0000-000A"
 		cti:autoria artigo-cti-1
 		cti:autoria artigo-cti-2
-		cti:mensurado citacao-ana-2024
+		cti:mensurado cti-pe2:citacao-ana-2024
 	]
 
 	instance autor-carlos : cti:Autor [
@@ -269,7 +273,7 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 		cti:nm_pessoa "Maria Souza"
 		cti:autoria artigo-ep-1
 		cti:autoria artigo-ep-2
-		cti:mensurado citacao-maria-2024
+		cti:mensurado cti-pe2:citacao-maria-2024
 	]
 
 	instance autor-ricardo : cti:Autor [
@@ -288,7 +292,8 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 	// ---------------------------------------------------------------------
 	// Medidas de citação
 	// ---------------------------------------------------------------------
-	instance citacao-ana-2024 : cti:Citacao [
+	
+	/* instance citacao-ana-2024 : cti:Citacao [
 		cti:an_base_citacao 2024
 		cti:nr_citacoes_autor 25
 	]
@@ -296,5 +301,5 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 	instance citacao-maria-2024 : cti:Citacao [
 		cti:an_base_citacao 2024
 		cti:nr_citacoes_autor 40
-	]
+	] */
 }
