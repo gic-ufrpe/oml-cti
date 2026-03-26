@@ -753,6 +753,8 @@ O vídeo a seguir demonstra a execução da tarefa de build para esse projeto CT
 
 <video src="videos/18-run-build-task.mov" controls width="640"></video>
 
+Baixar vídeo: [18-run-build-task.mov](videos/18-run-build-task.mov)
+
 Se tudo estiver correto na modelagem, o *build* deve terminar com sucesso (ícones verdes) e o reasoner não deverá reportar inconsistências para o dataset CTI. A figura abaixo ilustra um *build* bem-sucedido:
 
 ![Build bem-sucedido do projeto CTI](images/19-successful-build.png)
@@ -889,6 +891,8 @@ Para executar as consultas, vamos usar as tarefas Gradle configuradas em `build.
 O vídeo a seguir ilustra a execução das consultas SPARQL e a inspeção dos resultados:
 
 <video src="videos/23-show-Query-result.mov" controls width="640"></video>
+
+Baixar vídeo: [23-show-Query-result.mov](videos/23-show-Query-result.mov)
 
 #### 1.8.4. Inspecionar os resultados em JSON
 

@@ -75,6 +75,8 @@ O processo de troca para a *Modeling Perspective* é ilustrado no vídeo a segui
 
 <video src="videos/4-switch-to-modeling-perspective.mov" controls width="640"></video>
 
+Baixar vídeo: [4-switch-to-modeling-perspective.mov](videos/4-switch-to-modeling-perspective.mov)
+
 ---
 
 ### Conhecer a interface principal
@@ -98,8 +100,12 @@ Os vídeos a seguir demonstram mais detalhes da interface:
 
 - Mostrar/abrir diferentes *views* do ambiente:  
   <video src="videos/5-show-views.mov" controls width="640"></video>
+
+   Baixar vídeo: [5-show-views.mov](videos/5-show-views.mov)
 - Habilitar numeração de linhas nos editores:  
   <video src="videos/7-enable-line-numbers.mov" controls width="640"></video>
+
+   Baixar vídeo: [7-enable-line-numbers.mov](videos/7-enable-line-numbers.mov)
 
 ---
 
