@@ -1,0 +1,15 @@
+PREFIX cti: <http://gic.ufrpe.br/cti/vocabulary/cti#>
+
+SELECT ?titulo ?doi ?ano
+WHERE {
+  # Filtramos diretamente pelo nome do autor definido na instância
+  ?autor a cti:Autor ;
+         cti:nm_pessoa "Gustavo Callou" ;
+         cti:autoria ?artigo .
+
+  ?artigo cti:nm_titulo ?titulo ;
+          cti:an_base_producao ?ano .
+  
+  OPTIONAL { ?artigo cti:ds_doi ?doi }
+}
+ORDER BY DESC(?ano)

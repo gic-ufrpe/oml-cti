@@ -8,7 +8,10 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 	// Vocabulário principal de CT&I
 	uses <http://gic.ufrpe.br/cti/vocabulary/cti#> as cti
 
+	// Extensões para modularização de dados (Citações e Dados Scopus)
 	extends <http://gic.ufrpe.br/cti/description/cti-pe2#> as cti-pe2
+	// O cti-pe3 contém as produções de 2026 filtradas para a UFRPE
+	//extends <http://gic.ufrpe.br/cti/description/cti-pe3#> as cti-pe3
 
 	// ---------------------------------------------------------------------
 	// Instituições de Ciência e Tecnologia (ICT)
@@ -173,6 +176,16 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 		cti:nm_veiculo_publicacao "Journal of Innovation and Technology"
 		cti:ds_isbn_issn "8765-4321"
 	]
+	
+	instance periodico-cti2 : cti:Veiculo_Publicacao [ // novo veículo de publicação
+		cti:nm_veiculo_publicacao "Journal of Network and Systems Management"
+		cti:ds_isbn_issn "1573-7705"		
+	]
+	
+	instance periodico-cti3 : cti:Veiculo_Publicacao [ // novo veículo de publicação
+		cti:nm_veiculo_publicacao "Dependable and Secure Computing - Conference Paper"
+	]
+
 
 	// ---------------------------------------------------------------------
 	// Produções científicas (3-5 itens por PPG)
@@ -209,6 +222,24 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 		cti:ds_doi "10.1234/cti.2024.0004"
 		cti:publicada periodico-inovacao
 	]
+
+	instance artigo-cti-5 : cti:Producao_Cientifica [  // novo artigo
+		cti:an_base_producao 2026
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "S-iNAS: A Performance-Centric SRN Modeling and Analysis of Time and Event Based Scaling Strategies in Ceph-Based Industrial Network-Attached Storage"
+		cti:ds_doi "10.1007/s10922-025-10005-6"
+		cti:publicada periodico-cti2 // qual periódico
+	]
+	
+	instance artigo-cti-6 : cti:Producao_Cientifica [  // novo artigo
+		cti:an_base_producao 2026
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Impact of Image Resolution on Drone Surveillance System Availability: A Stochastic Petri Net Approach"
+		cti:ds_doi "10.1007/s10922-025-10005-6"
+		cti:publicada periodico-cti3 // qual periódico
+	]
+
+
 
 	// Produções do PPG Engenharia de Produção (UFPE)
 	instance artigo-ep-1 : cti:Producao_Cientifica [
@@ -287,6 +318,13 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 		cti:id_pessoa 16
 		cti:nm_pessoa "Luiza Carvalho"
 		cti:autoria artigo-ep-3
+	]
+
+	instance autor-gustavo-callou : cti:Autor [  // novo autor
+		cti:id_pessoa 17
+		cti:nm_pessoa "Gustavo Callou"
+		cti:autoria artigo-cti-5
+		cti:autoria artigo-cti-6 
 	]
 
 	// ---------------------------------------------------------------------
