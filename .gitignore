@@ -14,4 +14,4 @@
 fuseki.pid
 
 # Configurações específicas do Eclipse
-.settings/
+# .settings/

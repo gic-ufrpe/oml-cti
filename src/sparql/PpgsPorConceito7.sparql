@@ -14,5 +14,7 @@ WHERE {
 
 	?conceitoInd cti:cd_conceito_programa ?conceito ;
 				 cti:an_base_conceito ?ano .
+	
+	FILTER (?conceito = "7")
 }
 ORDER BY ?siglaIct ?codigo ?ano
