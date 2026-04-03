@@ -26,7 +26,8 @@ A figura abaixo apresenta uma visão geral do modelo conceitual de CT&I usado ne
 - [Como funciona este projeto OML](#como-funciona-este-projeto-oml)
 - [Preparação do ambiente (Rosetta e workspace)](docs/preparacao.md)
 - [Tutorial 1 – OML Basics (CTI)](docs/tutorial1-cti.md)
- - [Tutorial 2 – Modelagem gráfica com Sirius (CTI)](docs/tutorial2-sirius-cti.md)
+- [Tutorial 2 – Modelagem gráfica com Sirius (CTI)](docs/tutorial2-sirius-cti.md)
+- [Data Acquisition – Exemplo prático (gerador OML a partir de CAPES CSV)](#exemplo-data-acquisition-capes)
 
 ---
 
@@ -39,18 +40,45 @@ As ferramentas de análise e transformação (conversão OML→OWL, raciocínio,
 Essas tarefas podem ser executadas de duas formas:
 
 1. **Pela interface gráfica do editor**  
-	Exemplo: pelo painel **Gradle Tasks** no Eclipse/Rosetta.
+   Exemplo: pelo painel **Gradle Tasks** no Eclipse/Rosetta.
 2. **Pelo terminal**, usando o Gradle Wrapper:
 
-	```bash
-	./gradlew <task>
-	```
+   ```bash
+   ./gradlew <task>
+   ```
 
-No caso deste projeto, as tarefas Gradle mais importantes (que são usadas no Tutorial 1) incluem:
+Principais tarefas utilizadas:
 
-- `omlToOwl` – converte os modelos OML em OWL
-- `owlReason` – roda o raciocinador DL e gera [build/reports/reasoning.xml](build/reports/reasoning.xml)
-- `owlLoad` e `owlQuery` – carregam a ontologia em um dataset Fuseki e executam consultas SPARQL
-- tarefas do grupo `oml` como `startFuseki` e `stopFuseki`, usadas para iniciar/parar o servidor Fuseki local
+- `omlToOwl` – converte OML para OWL  
+- `owlReason` – executa raciocínio DL  
+- `owlLoad` / `owlQuery` – carga e consulta SPARQL  
+- `startFuseki` / `stopFuseki` – controle do servidor  
 
-Os detalhes passo a passo de preparação do ambiente e do Tutorial 1 estão separados nos arquivos da pasta `docs/`, conforme o índice acima.
+---
+
+## Exemplo: Data Acquisition (CAPES)
+
+Uma das etapas do ciclo KM trabalhadas neste projeto é a **aquisição de dados** (*data acquisition*). Para isso, foi implementado um exemplo prático utilizando dados abertos da CAPES.
+
+Além da ontologia em si, o repositório inclui scripts que mostram como sair de dados tabulares (CSV) e chegar em instâncias OML aderentes ao modelo.
+
+O script principal está em:
+👉 `scripts/generate_oml_from_capes.py`
+
+Ele realiza um fluxo completo:
+
+1. leitura dos dados da CAPES (CSV)  
+2. filtragem e limpeza (ex.: programas de PE)  
+3. extração das entidades do modelo (ICT, PPG, Conceito_PPG)  
+4. geração do arquivo OML com instâncias (`cti-pe.oml`)  
+
+A pasta `scripts/` concentra esse material, incluindo instruções de execução e explicação do pipeline.
+
+Consulte:
+👉 [scripts/README.md](scripts/README.md)
+
+A ideia é deixar claro o caminho entre:
+
+- dados brutos  
+- processamento  
+- instâncias da ontologia  
