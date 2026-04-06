@@ -5602,6 +5602,41 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 
 
 
+	instance periodico-cti2 : cti:Veiculo_Publicacao [ // novo veículo de publicação
+		cti:nm_veiculo_publicacao "Journal of Network and Systems Management"
+		cti:ds_isbn_issn "1573-7705"		
+	]
+	
+	instance periodico-cti3 : cti:Veiculo_Publicacao [ // novo veículo de publicação
+		cti:nm_veiculo_publicacao "Dependable and Secure Computing - Conference Paper"
+	]
+
+	instance artigo-cti-5 : cti:Producao_Cientifica [  // novo artigo
+		cti:an_base_producao 2026
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "S-iNAS: A Performance-Centric SRN Modeling and Analysis of Time and Event Based Scaling Strategies in Ceph-Based Industrial Network-Attached Storage"
+		cti:ds_doi "10.1007/s10922-025-10005-6"
+		cti:publicada periodico-cti2 
+	]
+	
+	instance artigo-cti-6 : cti:Producao_Cientifica [  // novo artigo
+		cti:an_base_producao 2026
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Impact of Image Resolution on Drone Surveillance System Availability: A Stochastic Petri Net Approach"
+		cti:ds_doi "10.1007/s10922-025-10005-6"
+		cti:publicada periodico-cti3
+	]
+
+	instance autor-gustavo-callou : cti:Autor [  // novo autor
+		cti:id_pessoa 17
+		cti:nm_pessoa "Gustavo Callou"
+		cti:autoria artigo-cti-5
+		cti:autoria artigo-cti-6 
+	]
+
+
+
+
 
 
 
@@ -5613,7 +5648,7 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 	// ---------------------------------------------------------------------
 	// Instituições de Ciência e Tecnologia (ICT)
 	// ---------------------------------------------------------------------
-	instance ict-ufrpe : cti:ICT [
+	/*instance ict-ufrpe : cti:ICT [
 		cti:cd_entidade_capes "23004"
 		cti:sg_entidade_ensino "UFRPE"
 		cti:nm_entidade_ensino "Universidade Federal Rural de Pernambuco"
@@ -5625,12 +5660,12 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 		cti:sg_entidade_ensino "UFPE"
 		cti:nm_entidade_ensino "Universidade Federal de Pernambuco"
 		cti:sg_uf "PE"
-	]
+	]*/
 
 	// ---------------------------------------------------------------------
 	// Programas de Pós-Graduação (PPG) e conceitos CAPES
 	// ---------------------------------------------------------------------
-	instance ppg-cti-ufrpe : cti:PPG [
+	/*instance ppg-cti-ufrpe : cti:PPG [
 		cti:cd_programa_ies "23004012001P5"
 		cti:nm_programa_ies "PPG em Ciência, Tecnologia e Inovação"
 		cti:nm_modalidade_programa "Acadêmico"
@@ -5656,13 +5691,13 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 		cti:nm_area_conhecimento "Engenharias"
 		cti:sediado ict-ufpe
 		cti:avaliado conceito-ppg-engenharia-producao-ufpe-2021
-	]
+	]*/
 
 	// ---------------------------------------------------------------------
 	// Docentes
 	// ---------------------------------------------------------------------
 	// Docentes da UFRPE (PPG CTI)
-	instance docente-ana : cti:Docente [
+	/*instance docente-ana : cti:Docente [
 		cti:id_pessoa 1
 		cti:nr_documento "00000000000"
 		cti:nm_pessoa "Ana Silva"
@@ -5691,10 +5726,10 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 		cti:nm_pais_nacionalidade "Brasil"
 		cti:ds_regime_trabalho "Tempo parcial"
 		cti:membro ppg-cti-ufrpe
-	]
+	]*/
 
 	// Docentes da UFPE (PPG Engenharia de Produção)
-	instance docente-maria : cti:Docente [
+	/*instance docente-maria : cti:Docente [
 		cti:id_pessoa 4
 		cti:nr_documento "33333333333"
 		cti:nm_pessoa "Maria Souza"
@@ -5722,13 +5757,13 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 		cti:nm_pais_nacionalidade "Brasil"
 		cti:ds_regime_trabalho "Tempo parcial"
 		cti:membro ppg-engenharia-producao-ufpe
-	]
+	]*/
 
 	// ---------------------------------------------------------------------
 	// Discentes
 	// ---------------------------------------------------------------------
 	// Discentes da UFRPE (PPG CTI)
-	instance discente-bruno : cti:Discente [
+	/*instance discente-bruno : cti:Discente [
 		cti:id_pessoa 7
 		cti:nm_pessoa "Bruno Souza"
 		cti:nm_situacao_discente "Matriculado"
@@ -5759,12 +5794,12 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 		cti:nm_situacao_discente "Egresso"
 		cti:vinculado ppg-engenharia-producao-ufpe
 		cti:orientador docente-ricardo
-	]
+	]*/
 
 	// ---------------------------------------------------------------------
 	// Autores (para associar às produções científicas)
 	// ---------------------------------------------------------------------
-	instance periodico-cti : cti:Veiculo_Publicacao [
+	/*instance periodico-cti : cti:Veiculo_Publicacao [
 		cti:nm_veiculo_publicacao "Revista Brasileira de CT&I"
 		cti:ds_isbn_issn "1234-5678"
 	]
@@ -5772,23 +5807,16 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 	instance periodico-inovacao : cti:Veiculo_Publicacao [
 		cti:nm_veiculo_publicacao "Journal of Innovation and Technology"
 		cti:ds_isbn_issn "8765-4321"
-	]
+	]*/
 	
-	instance periodico-cti2 : cti:Veiculo_Publicacao [ // novo veículo de publicação
-		cti:nm_veiculo_publicacao "Journal of Network and Systems Management"
-		cti:ds_isbn_issn "1573-7705"		
-	]
-	
-	instance periodico-cti3 : cti:Veiculo_Publicacao [ // novo veículo de publicação
-		cti:nm_veiculo_publicacao "Dependable and Secure Computing - Conference Paper"
-	]
+
 
 
 	// ---------------------------------------------------------------------
 	// Produções científicas (3-5 itens por PPG)
 	// ---------------------------------------------------------------------
 	// Produções do PPG CTI (UFRPE)
-	instance artigo-cti-1 : cti:Producao_Cientifica [
+	/*instance artigo-cti-1 : cti:Producao_Cientifica [
 		cti:an_base_producao 2022
 		cti:ds_natureza "Artigo em periódico"
 		cti:nm_titulo "Indicadores de CT&I em Pernambuco: uma análise exploratória"
@@ -5818,28 +5846,14 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 		cti:nm_titulo "Formação de recursos humanos em CT&I na Região Nordeste"
 		cti:ds_doi "10.1234/cti.2024.0004"
 		cti:publicada periodico-inovacao
-	]
+	]*/
 
-	instance artigo-cti-5 : cti:Producao_Cientifica [  // novo artigo
-		cti:an_base_producao 2026
-		cti:ds_natureza "Artigo em periódico"
-		cti:nm_titulo "S-iNAS: A Performance-Centric SRN Modeling and Analysis of Time and Event Based Scaling Strategies in Ceph-Based Industrial Network-Attached Storage"
-		cti:ds_doi "10.1007/s10922-025-10005-6"
-		cti:publicada periodico-cti2 // qual periódico
-	]
-	
-	instance artigo-cti-6 : cti:Producao_Cientifica [  // novo artigo
-		cti:an_base_producao 2026
-		cti:ds_natureza "Artigo em periódico"
-		cti:nm_titulo "Impact of Image Resolution on Drone Surveillance System Availability: A Stochastic Petri Net Approach"
-		cti:ds_doi "10.1007/s10922-025-10005-6"
-		cti:publicada periodico-cti3 // qual periódico
-	]
+
 
 
 
 	// Produções do PPG Engenharia de Produção (UFPE)
-	instance artigo-ep-1 : cti:Producao_Cientifica [
+	/*instance artigo-ep-1 : cti:Producao_Cientifica [
 		cti:an_base_producao 2021
 		cti:ds_natureza "Artigo em periódico"
 		cti:nm_titulo "Eficiência de processos produtivos na indústria pernambucana"
@@ -5869,10 +5883,10 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 		cti:nm_titulo "Análise de capacidade inovativa em parques tecnológicos"
 		cti:ds_doi "10.5678/ep.2024.0004"
 		cti:publicada periodico-inovacao
-	]
+	]*/
 
 	// Relações de autoria representadas como propriedades nos autores
-	instance autor-ana : cti:Autor [
+	/*instance autor-ana : cti:Autor [
 		cti:id_pessoa 11
 		cti:nm_pessoa "Ana Silva"
 		cti:ds_orc_id "0000-0001-0000-000A"
@@ -5915,20 +5929,15 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 		cti:id_pessoa 16
 		cti:nm_pessoa "Luiza Carvalho"
 		cti:autoria artigo-ep-3
-	]
+	]*/
 
-	instance autor-gustavo-callou : cti:Autor [  // novo autor
-		cti:id_pessoa 17
-		cti:nm_pessoa "Gustavo Callou"
-		cti:autoria artigo-cti-5
-		cti:autoria artigo-cti-6 
-	]
+
 
 	// ---------------------------------------------------------------------
 	// Medidas de citação
 	// ---------------------------------------------------------------------
 	
-	instance citacao-ana-2024 : cti:Citacao [
+	/*instance citacao-ana-2024 : cti:Citacao [
 		cti:an_base_citacao 2024
 		cti:nr_citacoes_autor 25
 	]
@@ -5936,5 +5945,5 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 	instance citacao-maria-2024 : cti:Citacao [
 		cti:an_base_citacao 2024
 		cti:nr_citacoes_autor 40
-	]
+	]*/
 }
