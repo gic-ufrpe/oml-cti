@@ -1,0 +1,2458 @@
+[
+    {
+        "titulo": "Tracking crocodylia: a review of telemetry studies on movements and spatial use",
+        "data_publicacao": "2023-12-01",
+        "periodico": "Animal Biotelemetry",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Mascarenhas-Junior P.B.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco",
+                    "Universidade Federal Rural de Pernambuco",
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Sousa Correia J.M.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Simões P.I.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco",
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1186/s40317-023-00333-2"
+    },
+    {
+        "titulo": "Automating the audit of the Brazilian electronic ballot operation: A new dataset for 6DoF pose estimation of the voter terminal based on domain randomization",
+        "data_publicacao": "2023-11-06",
+        "periodico": "ACM International Conference Proceeding Series",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Norberto J.M.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "da Cunha K.B.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "da Silva Júnior M.R.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Magalhães Simões F.P.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1145/3625008.3625017"
+    },
+    {
+        "titulo": "Comments on “Efficient classical simulation of the Deutsch–Jozsa and Simon’s algorithms”",
+        "data_publicacao": "2023-11-01",
+        "periodico": "Quantum Information Processing",
+        "ISSN": "15700755",
+        "autores": [
+            {
+                "nome": "Batista C.A.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco",
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Veras T.M.L.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "da Silva L.D.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "da Silva A.J.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1007/s11128-023-04134-7"
+    },
+    {
+        "titulo": "Dependability evaluation and sensitivity analysis of data center cooling systems",
+        "data_publicacao": "2023-11-01",
+        "periodico": "Journal of Supercomputing",
+        "ISSN": "09208542",
+        "autores": [
+            {
+                "nome": "Souza L.",
+                "afiliacoes": [
+                    "Universidade de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Camboim K.",
+                "afiliacoes": [
+                    "Universidade Federal do Agreste de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Araujo J.",
+                "afiliacoes": [
+                    "Universidade Federal do Agreste de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Alencar F.",
+                "afiliacoes": [
+                    "Universidade de Pernambuco",
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Maciel P.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Ferreira J.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco",
+                    "Universidade de Coimbra"
+                ]
+            }
+        ],
+        "doi": "10.1007/s11227-023-05419-5"
+    },
+    {
+        "titulo": "Foreword by the General and Program Chairs",
+        "data_publicacao": "2023-10-16",
+        "periodico": "ACM International Conference Proceeding Series",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Paiva R.",
+                "afiliacoes": [
+                    "Universidade Federal de Alagoas"
+                ]
+            },
+            {
+                "nome": "De Araújo A.M.C.",
+                "afiliacoes": [
+                    "Universidade Federal de Alagoas"
+                ]
+            },
+            {
+                "nome": "Falcão T.P.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Costa Aguiar Y.P.",
+                "afiliacoes": [
+                    "Universidade Federal da Paraíba"
+                ]
+            }
+        ],
+        "doi": null
+    },
+    {
+        "titulo": "Modeling and Analysis of a Telesurgery Environment Considering a 5G Network",
+        "data_publicacao": "2023-10-05",
+        "periodico": "Revista De Informatica Teorica E Aplicada",
+        "ISSN": "01034308",
+        "autores": [
+            {
+                "nome": "Rocha V.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Araujo J.",
+                "afiliacoes": [
+                    "Universidade Federal do Agreste de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Nogueira B.",
+                "afiliacoes": [
+                    "Universidade Federal de Alagoas"
+                ]
+            },
+            {
+                "nome": "Andrade E.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.22456/2175-2745.137324"
+    },
+    {
+        "titulo": "Energy Consumption and Performance Evaluation of Multi-Model NoSQL DBMSs",
+        "data_publicacao": "2023-10-05",
+        "periodico": "Revista De Informatica Teorica E Aplicada",
+        "ISSN": "01034308",
+        "autores": [
+            {
+                "nome": "Falcão F.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Moura J.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Silva G.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Araujo C.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Sousa E.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Tavares E.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.22456/2175-2745.136568"
+    },
+    {
+        "titulo": "Quantifying Soil Complexity Using Fisher Shannon Method on 3D X-ray Computed Tomography Scans",
+        "data_publicacao": "2023-10-01",
+        "periodico": "Entropy",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Aguiar D.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Menezes R.S.C.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Antonino A.C.D.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Stosic T.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Tarquis A.M.",
+                "afiliacoes": [
+                    "Universidad Politécnica de Madrid",
+                    "Universidad Politécnica de Madrid"
+                ]
+            },
+            {
+                "nome": "Stosic B.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.3390/e25101465"
+    },
+    {
+        "titulo": "Modeling and Analysis of a Telesurgery Environment Using Stochastic Petri Nets",
+        "data_publicacao": "2023-10-01",
+        "periodico": "IEEE Latin America Transactions",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Rocha V.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Araujo J.",
+                "afiliacoes": [
+                    "Universidade Federal do Agreste de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Nogueira B.",
+                "afiliacoes": [
+                    "Universidade Federal de Alagoas"
+                ]
+            },
+            {
+                "nome": "Andrade E.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1109/TLA.2023.10255446"
+    },
+    {
+        "titulo": "On Using Design Thinking to Define Public Challenges and Address SDGs",
+        "data_publicacao": "2023-07-11",
+        "periodico": "ACM International Conference Proceeding Series",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Valenca G.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Medeiros H.",
+                "afiliacoes": [
+                    "Secretaria Estadual de Saúde de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Santiago K.",
+                "afiliacoes": [
+                    "Secretaria Estadual de Saúde de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Guedes B.",
+                "afiliacoes": [
+                    "Secretaria Estadual de Saúde de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Fidelis M.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Brito K.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1145/3598469.3598532"
+    },
+    {
+        "titulo": "The use and impact of TikTok in the 2022 Brazilian presidential election",
+        "data_publicacao": "2023-07-11",
+        "periodico": "ACM International Conference Proceeding Series",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Lima J.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Santana M.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Correa A.",
+                "afiliacoes": [
+                    "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo"
+                ]
+            },
+            {
+                "nome": "Brito K.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1145/3598469.3598485"
+    },
+    {
+        "titulo": "Analysis of Software Aging in a Database Environment",
+        "data_publicacao": "2023-07-01",
+        "periodico": "IEEE Latin America Transactions",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Couto H.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Andrade E.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Silva F.A.",
+                "afiliacoes": [
+                    "Universidade Federal do Piauí"
+                ]
+            },
+            {
+                "nome": "Callou G.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1109/TLA.2023.10244181"
+    },
+    {
+        "titulo": "A data mining framework for reporting trends in the predictive contribution of factors related to educational achievement",
+        "data_publicacao": "2023-07-01",
+        "periodico": "Expert Systems with Applications",
+        "ISSN": "09574174",
+        "autores": [
+            {
+                "nome": "Silva Filho R.L.C.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco",
+                    "Instituto Federal do Norte de Minas Gerais"
+                ]
+            },
+            {
+                "nome": "Brito K.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Adeodato P.J.L.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1016/j.eswa.2023.119729"
+    },
+    {
+        "titulo": "A Study on the Influence of Sensors in Frequency and Time Domains on Context Recognition",
+        "data_publicacao": "2023-06-01",
+        "periodico": "Sensors",
+        "ISSN": "14248220",
+        "autores": [
+            {
+                "nome": "de Souza P.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Silva D.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Andrade I.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Dias J.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Lima J.P.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco",
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Teichrieb V.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Quintino J.P.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "da Silva F.Q.B.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Santos A.L.M.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.3390/s23125756"
+    },
+    {
+        "titulo": "Counting square-free monomial Cremona maps",
+        "data_publicacao": "2023-06-01",
+        "periodico": "Sao Paulo Journal of Mathematical Sciences",
+        "ISSN": "19826907",
+        "autores": [
+            {
+                "nome": "Costa B.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Dias T.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Gondim R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Machado R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1007/s40863-022-00345-5"
+    },
+    {
+        "titulo": "Computational system as support in the collection and management of environmental health surveillance data an application in the municipality of Jaboatão dos Guararapes/PE, Brazil",
+        "data_publicacao": "2023-05-29",
+        "periodico": "ACM International Conference Proceeding Series",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "de Miranda Oliveira A.C.F.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Miranda Oliveira G.H.F.",
+                "afiliacoes": [
+                    "Universidade Federal de Alagoas"
+                ]
+            },
+            {
+                "nome": "de Miranda Oliveira M.G.F.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Amaral L.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "dos Santos Machado A.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Filho M.C.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Vilar G.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1145/3592813.3592916"
+    },
+    {
+        "titulo": "A Survey on Datasets for Emotion Recognition from Vision: Limitations and In-the-Wild Applicability",
+        "data_publicacao": "2023-05-01",
+        "periodico": "Applied Sciences Switzerland",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Costa W.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Talavera E.",
+                "afiliacoes": [
+                    "Universiteit Twente"
+                ]
+            },
+            {
+                "nome": "Oliveira R.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Figueiredo L.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco",
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Teixeira J.M.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Lima J.P.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco",
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Teichrieb V.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.3390/app13095697"
+    },
+    {
+        "titulo": "Witnessing Nonclassicality in a Causal Structure with Three Observable Variables",
+        "data_publicacao": "2023-04-01",
+        "periodico": "Prx Quantum",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Lauand P.",
+                "afiliacoes": [
+                    "Universidade Estadual de Campinas"
+                ]
+            },
+            {
+                "nome": "Poderini D.",
+                "afiliacoes": [
+                    "Universidade Federal do Rio Grande do Norte"
+                ]
+            },
+            {
+                "nome": "Nery R.",
+                "afiliacoes": [
+                    "Universidade Federal do Rio Grande do Norte"
+                ]
+            },
+            {
+                "nome": "Moreno G.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Pollyceno L.",
+                "afiliacoes": [
+                    "Universidade Estadual de Campinas"
+                ]
+            },
+            {
+                "nome": "Rabelo R.",
+                "afiliacoes": [
+                    "Universidade Estadual de Campinas"
+                ]
+            },
+            {
+                "nome": "Chaves R.",
+                "afiliacoes": [
+                    "Universidade Federal do Rio Grande do Norte",
+                    "Universidade Federal do Rio Grande do Norte"
+                ]
+            }
+        ],
+        "doi": "10.1103/PRXQuantum.4.020311"
+    },
+    {
+        "titulo": "Leveraging Causal Reasoning in Educational Data Mining: An Analysis of Brazilian Secondary Education",
+        "data_publicacao": "2023-04-01",
+        "periodico": "Applied Sciences Switzerland",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Silva Filho R.L.C.",
+                "afiliacoes": [
+                    "Stanford Graduate School of Education",
+                    "Universidade Federal de Pernambuco",
+                    "Instituto Federal do Norte de Minas Gerais"
+                ]
+            },
+            {
+                "nome": "Brito K.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Adeodato P.J.L.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.3390/app13085198"
+    },
+    {
+        "titulo": "On applying the lackadaisical quantum walk algorithm to search for multiple solutions on grids",
+        "data_publicacao": "2023-04-01",
+        "periodico": "Information Sciences",
+        "ISSN": "00200255",
+        "autores": [
+            {
+                "nome": "de Carvalho J.H.A.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Souza L.S.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Paula Neto F.M.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Ferreira T.A.E.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1016/j.ins.2022.11.142"
+    },
+    {
+        "titulo": "COSTA: A cost-driven solution for migrating applications in multi-cloud environments",
+        "data_publicacao": "2023-03-27",
+        "periodico": "Proceedings of the ACM Symposium on Applied Computing",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Da Silva L.C.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "De Medeiros R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Rosa N.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1145/3555776.3577718"
+    },
+    {
+        "titulo": "Towards Automated Analysis of Rhetorical Categories in Students Essay Writings using Bloom's Taxonomy",
+        "data_publicacao": "2023-03-13",
+        "periodico": "ACM International Conference Proceeding Series",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Iqbal S.",
+                "afiliacoes": [
+                    "Monash University"
+                ]
+            },
+            {
+                "nome": "Rakovic M.",
+                "afiliacoes": [
+                    "Monash University"
+                ]
+            },
+            {
+                "nome": "Chen G.",
+                "afiliacoes": [
+                    "Monash University"
+                ]
+            },
+            {
+                "nome": "Li T.",
+                "afiliacoes": [
+                    "Monash University"
+                ]
+            },
+            {
+                "nome": "Ferreira Mello R.",
+                "afiliacoes": [
+                    "Monash University",
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Fan Y.",
+                "afiliacoes": [
+                    "Monash University",
+                    "Peking University"
+                ]
+            },
+            {
+                "nome": "Fiorentino G.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Radi Aljohani N.",
+                "afiliacoes": [
+                    "King Abdulaziz University"
+                ]
+            },
+            {
+                "nome": "Gasevic D.",
+                "afiliacoes": [
+                    "Monash University",
+                    "King Abdulaziz University"
+                ]
+            }
+        ],
+        "doi": "10.1145/3576050.3576112"
+    },
+    {
+        "titulo": "The Brazilian School Computing Standard",
+        "data_publicacao": "2023-03-03",
+        "periodico": "SIGCSE 2023 Proceedings of the 54th ACM Technical Symposium on Computer Science Education",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Ribeiro L.",
+                "afiliacoes": [
+                    "Universidade Federal do Rio Grande"
+                ]
+            },
+            {
+                "nome": "Foss L.",
+                "afiliacoes": [
+                    "Universidade Federal de Pelotas"
+                ]
+            },
+            {
+                "nome": "Cavalheiro S.A.D.C.",
+                "afiliacoes": [
+                    "Universidade Federal de Pelotas"
+                ]
+            },
+            {
+                "nome": "Kniphoff Da Cruz M.E.J.",
+                "afiliacoes": [
+                    "Universidade de Santa Cruz do Sul"
+                ]
+            },
+            {
+                "nome": "Soares De França R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1145/3545945.3569863"
+    },
+    {
+        "titulo": "Tutoria: a software platform to improve feedback in education",
+        "data_publicacao": "2023-02-10",
+        "periodico": "Journal on Interactive Systems",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Pontual Falcão T.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Arêdes V.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Souza S.B.J.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Fiorentino G.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Neto J.R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Alves G.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Mello R.F.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.5753/jis.2023.3247"
+    },
+    {
+        "titulo": "Improving the PBL method with Experiential Learning Theory in Software Engineering Teaching",
+        "data_publicacao": "2023-02-07",
+        "periodico": "Proceedings 4th International Workshop on Software Engineering Education for the Next Generation Seeng 2022",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Almeida C.",
+                "afiliacoes": [
+                    "Cesar School"
+                ]
+            },
+            {
+                "nome": "Franca C.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1145/3528231.3536382"
+    },
+    {
+        "titulo": "Learning Mediated by Social Network for Education in K-12: Levels of Interaction, Strategies, and Difficulties",
+        "data_publicacao": "2023-02-01",
+        "periodico": "Education Sciences",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Pereira A.J.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Gomes A.S.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Primo T.T.",
+                "afiliacoes": [
+                    "Universidade Federal de Pelotas"
+                ]
+            },
+            {
+                "nome": "Rodrigues R.L.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Júnior R.P.M.",
+                "afiliacoes": [
+                    "Colégio Militar do Recife"
+                ]
+            },
+            {
+                "nome": "Moreira F.",
+                "afiliacoes": [
+                    "Universidade Portucalense Infante D.Henrique",
+                    "Instituto de Engenharia Electrónica e Telemática de Aveiro"
+                ]
+            }
+        ],
+        "doi": "10.3390/educsci13020100"
+    },
+    {
+        "titulo": "A Quality, Size and Time Assessment of the Binarization of Documents Photographed by Smartphones",
+        "data_publicacao": "2023-02-01",
+        "periodico": "Journal of Imaging",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Bernardino R.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Lins R.D.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco",
+                    "Universidade Federal Rural de Pernambuco",
+                    "Universidade do Estado do Amazonas"
+                ]
+            },
+            {
+                "nome": "Barboza R.d.S.",
+                "afiliacoes": [
+                    "Universidade do Estado do Amazonas"
+                ]
+            }
+        ],
+        "doi": "10.3390/jimaging9020041"
+    },
+    {
+        "titulo": "Configurable sublinear circuits for quantum state preparation",
+        "data_publicacao": "2023-02-01",
+        "periodico": "Quantum Information Processing",
+        "ISSN": "15700755",
+        "autores": [
+            {
+                "nome": "Araujo I.F.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco",
+                    "Yonsei University",
+                    "Yonsei University"
+                ]
+            },
+            {
+                "nome": "Park D.K.",
+                "afiliacoes": [
+                    "Yonsei University",
+                    "Yonsei University"
+                ]
+            },
+            {
+                "nome": "Ludermir T.B.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Oliveira W.R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Petruccione F.",
+                "afiliacoes": [
+                    "Stellenbosch University",
+                    "National Institute for Theoretical Physics (NITheP)",
+                    "University of KwaZulu-Natal"
+                ]
+            },
+            {
+                "nome": "da Silva A.J.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1007/s11128-023-03869-7"
+    },
+    {
+        "titulo": "Performability Evaluation of Railway Systems: A Study on the Impact of Adding Alternative Routes",
+        "data_publicacao": "2023-02-01",
+        "periodico": "IEEE Latin America Transactions",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Marinho O.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Callou G.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Melo R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Andrade E.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1109/TLA.2023.10015219"
+    },
+    {
+        "titulo": "Spatial modeling via geostatistics and infrared thermography of the skin temperature of dairy cows in a compost barn system in the Brazilian semiarid region",
+        "data_publicacao": "2023-02-01",
+        "periodico": "Smart Agricultural Technology",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Silva M.V.d.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Pandorfi H.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Almeida G.L.P.d.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Silva R.A.B.d.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Morales K.R.M.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Guiselini C.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Santana T.C.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Cangela G.L.C.d.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Filho J.A.D.B.",
+                "afiliacoes": [
+                    "Universidade Federal do Ceará"
+                ]
+            },
+            {
+                "nome": "Moraes A.S.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Montenegro A.A.d.A.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Oliveira Júnior J.F.d.",
+                "afiliacoes": [
+                    "Universidade Federal de Alagoas"
+                ]
+            }
+        ],
+        "doi": "10.1016/j.atech.2022.100078"
+    },
+    {
+        "titulo": "ScanMix: Learning from Severe Label Noise via Semantic Clustering and Semi-Supervised Learning",
+        "data_publicacao": "2023-02-01",
+        "periodico": "Pattern Recognition",
+        "ISSN": "00313203",
+        "autores": [
+            {
+                "nome": "Sachdeva R.",
+                "afiliacoes": [
+                    "University of Oxford"
+                ]
+            },
+            {
+                "nome": "Cordeiro F.R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Belagiannis V.",
+                "afiliacoes": [
+                    "Otto-von-Guericke-Universität Magdeburg"
+                ]
+            },
+            {
+                "nome": "Reid I.",
+                "afiliacoes": [
+                    "The University of Adelaide"
+                ]
+            },
+            {
+                "nome": "Carneiro G.",
+                "afiliacoes": [
+                    "The University of Adelaide",
+                    "University of Surrey"
+                ]
+            }
+        ],
+        "doi": "10.1016/j.patcog.2022.109121"
+    },
+    {
+        "titulo": "A novel multi-objective grammar-based framework for the generation of Convolutional Neural Networks",
+        "data_publicacao": "2023-02-01",
+        "periodico": "Expert Systems with Applications",
+        "ISSN": "09574174",
+        "autores": [
+            {
+                "nome": "da Silva C.A.C.F.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Rosa D.C.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Miranda P.B.C.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Cordeiro F.R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Si T.",
+                "afiliacoes": [
+                    "Bankura Unnayani Institute of Engineering"
+                ]
+            },
+            {
+                "nome": "Nascimento A.C.A.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Mello R.F.L.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Mattos Neto P.S.G.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1016/j.eswa.2022.118670"
+    },
+    {
+        "titulo": "Recognizing Handwritten Mathematical Expressions of Vertical Addition and Subtraction",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Brazilian Symposium of Computer Graphic and Image Processing",
+        "ISSN": "15301834",
+        "autores": [
+            {
+                "nome": "Rosa D.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Cordeiro F.R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Carvalho R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Souza E.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Chevtchenko S.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Rodrigues L.",
+                "afiliacoes": [
+                    "Universidade Federal de Alagoas"
+                ]
+            },
+            {
+                "nome": "Marinho M.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Vieira T.",
+                "afiliacoes": [
+                    "Universidade Federal de Alagoas"
+                ]
+            },
+            {
+                "nome": "Macario V.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1109/SIBGRAPI59091.2023.10347150"
+    },
+    {
+        "titulo": "Toward Unlabeled Multi-View 3D Pedestrian Detection by Generalizable AI: Techniques and Performance Analysis",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Brazilian Symposium of Computer Graphic and Image Processing",
+        "ISSN": "15301834",
+        "autores": [
+            {
+                "nome": "Lima J.P.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco",
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Thomas D.",
+                "afiliacoes": [
+                    "Kyushu University"
+                ]
+            },
+            {
+                "nome": "Uchiyama H.",
+                "afiliacoes": [
+                    "Nara Institute of Science and Technology"
+                ]
+            },
+            {
+                "nome": "Teichrieb V.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1109/SIBGRAPI59091.2023.10347151"
+    },
+    {
+        "titulo": "Improving Mass Detection in Mammography Images: A Study of Weakly Supervised Learning and Class Activation Map Methods",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Brazilian Symposium of Computer Graphic and Image Processing",
+        "ISSN": "15301834",
+        "autores": [
+            {
+                "nome": "Sampaio V.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Cordeiro F.R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1109/SIBGRAPI59091.2023.10347182"
+    },
+    {
+        "titulo": "DDoS Detection Based on Hardware Performance Counters Selection",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Proceedings of the Workshop on Enabling Technologies Infrastructure for Collaborative Enterprises Wetice",
+        "ISSN": "15244547",
+        "autores": [
+            {
+                "nome": "Dantas C.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Pessoa P.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Ferreira J.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "MacIel P.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Dantas J.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1109/WETICE57085.2023.10501947"
+    },
+    {
+        "titulo": "Leveraging Previous Facial Action Units Knowledge for Emotion Recognition on Faces",
+        "data_publicacao": "2023-01-01",
+        "periodico": "2023 IEEE Latin American Conference on Computational Intelligence La Cci 2023",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Masur P.B.S.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Costa W.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Figueredo L.S.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Teichrieb V.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1109/LA-CCI58595.2023.10409332"
+    },
+    {
+        "titulo": "FedBID and FedDocs: A Dataset and System for Federated Document Analysis",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Proceedings of the International Joint Conference on Computer Vision Imaging and Computer Graphics Theory and Applications",
+        "ISSN": "21845921",
+        "autores": [
+            {
+                "nome": "Perazzo D.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Souza T.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Masur P.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Amorim E.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Oliveira P.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Cunha K.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Maggi L.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Simões F.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco",
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Teichrieb V.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Kirsten L.",
+                "afiliacoes": [
+                    "HP Inc"
+                ]
+            }
+        ],
+        "doi": "10.5220/0011658700003417"
+    },
+    {
+        "titulo": "Multi-Camera 3D Pedestrian Tracking Using Graph Neural Networks",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Proceedings of the International Joint Conference on Computer Vision Imaging and Computer Graphics Theory and Applications",
+        "ISSN": "21845921",
+        "autores": [
+            {
+                "nome": "de Andrade I.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Lima J.P.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco",
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.5220/0011674700003417"
+    },
+    {
+        "titulo": "Hardware-Based Acceleration of an Approximate 2D DCT for a System-on-Chip",
+        "data_publicacao": "2023-01-01",
+        "periodico": "2023 Symposium on Internet of Things Siot 2023",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Coutinho V.A.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Sipkoi G.",
+                "afiliacoes": [
+                    "Grupo de Pesquisas em Computacao Fisica"
+                ]
+            },
+            {
+                "nome": "Rufino C.Z.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "De Oliveira Neto J.R.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1109/SIoT60039.2023.10390065"
+    },
+    {
+        "titulo": "UMVpose++: Unsupervised Multi-View Multi-Person 3D Pose Estimation Using Ground Point Matching",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Proceedings of the International Joint Conference on Computer Vision Imaging and Computer Graphics Theory and Applications",
+        "ISSN": "21845921",
+        "autores": [
+            {
+                "nome": "Wallis de França Silva D.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Paulo Silva Do Monte Lima J.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco",
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Gabriel Francis Thomas D.",
+                "afiliacoes": [
+                    "Kyushu University"
+                ]
+            },
+            {
+                "nome": "Uchiyama H.",
+                "afiliacoes": [
+                    "Nara Institute of Science and Technology"
+                ]
+            },
+            {
+                "nome": "Teichrieb V.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.5220/0011668800003417"
+    },
+    {
+        "titulo": "Symbolic Reasoning for Early Decision-Making in Model-Based Systems Engineering",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Proceedings 2023 ACM IEEE International Conference on Model Driven Engineering Languages and Systems Companion Models C 2023",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Cederbladh J.",
+                "afiliacoes": [
+                    "Mälardalen University",
+                    "Volvo Group"
+                ]
+            },
+            {
+                "nome": "Cleophas L.",
+                "afiliacoes": [
+                    "Technische Universiteit Eindhoven",
+                    "Stellenbosch University"
+                ]
+            },
+            {
+                "nome": "Kamburjan E.",
+                "afiliacoes": [
+                    "Universitetet i Oslo"
+                ]
+            },
+            {
+                "nome": "Lima L.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco",
+                    "Universiteit Antwerpen"
+                ]
+            },
+            {
+                "nome": "Vangheluwe H.",
+                "afiliacoes": [
+                    "Universiteit Antwerpen"
+                ]
+            }
+        ],
+        "doi": "10.1109/MODELS-C59198.2023.00117"
+    },
+    {
+        "titulo": "Towards an Ontological Framework for Validity Frames",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Proceedings 2023 ACM IEEE International Conference on Model Driven Engineering Languages and Systems Companion Models C 2023",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Mittal R.",
+                "afiliacoes": [
+                    "Flanders Make"
+                ]
+            },
+            {
+                "nome": "Eslampanah R.",
+                "afiliacoes": [
+                    "Flanders Make"
+                ]
+            },
+            {
+                "nome": "Lima L.",
+                "afiliacoes": [
+                    "Flanders Make",
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Vangheluwe H.",
+                "afiliacoes": [
+                    "Flanders Make"
+                ]
+            },
+            {
+                "nome": "Blouin D.",
+                "afiliacoes": [
+                    "Institut Polytechnique de Paris"
+                ]
+            }
+        ],
+        "doi": "10.1109/MODELS-C59198.2023.00128"
+    },
+    {
+        "titulo": "Towards Ontology Enabled Agent-Based Twinning for Cyber-Physical Systems",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Proceedings 2023 ACM IEEE International Conference on Model Driven Engineering Languages and Systems Companion Models C 2023",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Marah H.",
+                "afiliacoes": [
+                    "Universiteit Antwerpen"
+                ]
+            },
+            {
+                "nome": "Lima L.",
+                "afiliacoes": [
+                    "Universiteit Antwerpen",
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Challenger M.",
+                "afiliacoes": [
+                    "Universiteit Antwerpen"
+                ]
+            },
+            {
+                "nome": "Vangheluwe H.",
+                "afiliacoes": [
+                    "Universiteit Antwerpen"
+                ]
+            }
+        ],
+        "doi": "10.1109/MODELS-C59198.2023.00078"
+    },
+    {
+        "titulo": "Autonomy and Turnover: A Survey Applied to Distributed Software Teams",
+        "data_publicacao": "2023-01-01",
+        "periodico": "International Joint Conference on Knowledge Discovery Knowledge Engineering and Knowledge Management Ic3k Proceedings",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Amorim L.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Farias I.",
+                "afiliacoes": [
+                    "Universidade de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Marinho M.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.5220/0012162300003598"
+    },
+    {
+        "titulo": "Survey on Integration of Consensus Mechanisms in IoT-based Blockchains",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Journal of Universal Computer Science",
+        "ISSN": "0948695X",
+        "autores": [
+            {
+                "nome": "de Morais A.M.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Lins F.A.A.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Rosa N.S.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.3897/jucs.94929"
+    },
+    {
+        "titulo": "Adaptation of Agile Roles in Large-Scale Distributed Projects: Perception of Industry Professionals",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Risti Revista Iberica De Sistemas E Tecnologias De Informacao",
+        "ISSN": "16469895",
+        "autores": [
+            {
+                "nome": "Marques R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Júnior I.F.",
+                "afiliacoes": [
+                    "Universidade de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Marinho M.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.17013/risti.51.67-83"
+    },
+    {
+        "titulo": "Understanding Peer Feedback Contributions Using Natural Language Processing",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics",
+        "ISSN": "03029743",
+        "autores": [
+            {
+                "nome": "Castro M.S.d.O.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Mello R.F.",
+                "afiliacoes": [
+                    "CESAR Centro de Estudios e Sistemas Avancados do Recife",
+                    "Monash University"
+                ]
+            },
+            {
+                "nome": "Fiorentino G.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Viberg O.",
+                "afiliacoes": [
+                    "The Royal Institute of Technology (KTH)"
+                ]
+            },
+            {
+                "nome": "Spikol D.",
+                "afiliacoes": [
+                    "Københavns Universitet"
+                ]
+            },
+            {
+                "nome": "Baars M.",
+                "afiliacoes": [
+                    "Erasmus Universiteit Rotterdam"
+                ]
+            },
+            {
+                "nome": "Gašević D.",
+                "afiliacoes": [
+                    "Monash University"
+                ]
+            }
+        ],
+        "doi": "10.1007/978-3-031-42682-7_27"
+    },
+    {
+        "titulo": "High-level context representation for emotion recognition in images",
+        "data_publicacao": "2023-01-01",
+        "periodico": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops",
+        "ISSN": "21607508",
+        "autores": [
+            {
+                "nome": "De Lima Costa W.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Talavera Martínez E.",
+                "afiliacoes": [
+                    "Universiteit Twente"
+                ]
+            },
+            {
+                "nome": "Figueiredo L.S.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Teichrieb V.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1109/CVPRW59228.2023.00038"
+    },
+    {
+        "titulo": "E-Down: A Methodology to Support the Choice and Configuration of VLEs in the Training of Students with Down Syndrome",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Iberian Conference on Information Systems and Technologies Cisti",
+        "ISSN": "21660727",
+        "autores": [
+            {
+                "nome": "De Miranda A.F.S.",
+                "afiliacoes": [
+                    "Universidade de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Da Silva M.L.L.",
+                "afiliacoes": [
+                    "Universidade de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Da Silva J.R.A.",
+                "afiliacoes": [
+                    "Universidade de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Correia A.A.",
+                "afiliacoes": [
+                    "Universidade de Pernambuco"
+                ]
+            },
+            {
+                "nome": "De Oliveira Rodrigues C.M.",
+                "afiliacoes": [
+                    "Universidade de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Lins F.A.A.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "De Oliveira Nobrega O.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Falcao T.P.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.23919/CISTI58278.2023.10211998"
+    },
+    {
+        "titulo": "Performance evaluation and energy consumption of a video surveillance system with distributed storage",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Iberian Conference on Information Systems and Technologies Cisti",
+        "ISSN": "21660727",
+        "autores": [
+            {
+                "nome": "Borges I.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Callou G.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Silva F.A.",
+                "afiliacoes": [
+                    "Universidade Federal do Piauí"
+                ]
+            }
+        ],
+        "doi": "10.23919/CISTI58278.2023.10211770"
+    },
+    {
+        "titulo": "Pedestrian Presence Detection in Areas of Interest Using Multiple Cameras",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics",
+        "ISSN": "03029743",
+        "autores": [
+            {
+                "nome": "dos Santos da Silva K.F.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco",
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Silva do Monte Lima J.P.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco",
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Teichrieb V.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1007/978-3-031-35696-4_8"
+    },
+    {
+        "titulo": "Mixture models of probability distributions applied to rainfall in the state of Pernambuco, Brazil",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Acta Scientiarum Technology",
+        "ISSN": "18062563",
+        "autores": [
+            {
+                "nome": "da Silva L.P.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Santiago E.J.P.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Gomes-Silva F.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "da Silva A.S.A.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Menezes R.S.C.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.4025/actascitechnol.v45i1.60621"
+    },
+    {
+        "titulo": "Normal-tangent-logarithm-(G1, G2): a class of probabilistic distributions depending on two baselines",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Acta Scientiarum Technology",
+        "ISSN": "18062563",
+        "autores": [
+            {
+                "nome": "Cordeiro N.M.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Gomes-Silva F.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Brito C.C.R.",
+                "afiliacoes": [
+                    "Instituto Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Jale J.d.S.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Vasconcelos J.M.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.4025/actascitechnol.v45i1.61519"
+    },
+    {
+        "titulo": "PCOBL: A Novel Opposition-Based Learning Strategy to Improve Metaheuristics Exploration and Exploitation for Solving Global Optimization Problems",
+        "data_publicacao": "2023-01-01",
+        "periodico": "IEEE Access",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Si T.",
+                "afiliacoes": [
+                    "University of Engineering & Management Jaipur"
+                ]
+            },
+            {
+                "nome": "Bhattacharya D.",
+                "afiliacoes": [
+                    "Sarala Birla University"
+                ]
+            },
+            {
+                "nome": "Nayak S.",
+                "afiliacoes": [
+                    "University of Engineering & Management Jaipur"
+                ]
+            },
+            {
+                "nome": "Miranda P.B.C.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Nandi U.",
+                "afiliacoes": [
+                    "Vidyasagar University"
+                ]
+            },
+            {
+                "nome": "Mallik S.",
+                "afiliacoes": [
+                    "Harvard T.H. Chan School of Public Health"
+                ]
+            },
+            {
+                "nome": "Maulik U.",
+                "afiliacoes": [
+                    "Jadavpur University"
+                ]
+            },
+            {
+                "nome": "Qin H.",
+                "afiliacoes": [
+                    "College of Engineering and Computer Science"
+                ]
+            }
+        ],
+        "doi": "10.1109/ACCESS.2023.3273298"
+    },
+    {
+        "titulo": "Integration and Evaluation of Blockchain Consensus Algorithms for IoT Environments",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Lecture Notes in Networks and Systems",
+        "ISSN": "23673370",
+        "autores": [
+            {
+                "nome": "de Morais A.M.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Lins F.A.A.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Rosa N.S.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1007/978-3-031-28451-9_1"
+    },
+    {
+        "titulo": "Toward VR in VR: Assessing Engagement and Social Interaction in a Virtual Conference",
+        "data_publicacao": "2023-01-01",
+        "periodico": "IEEE Access",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Moreira C.",
+                "afiliacoes": [
+                    "Queensland University of Technology",
+                    "Instituto de Engenharia de Sistemas e Computadores: Investigação e Desenvolvimento em Lisboa"
+                ]
+            },
+            {
+                "nome": "Simoes F.P.M.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Lee M.J.W.",
+                "afiliacoes": [
+                    "La Trobe University"
+                ]
+            },
+            {
+                "nome": "Zorzal E.R.",
+                "afiliacoes": [
+                    "Instituto de Engenharia de Sistemas e Computadores: Investigação e Desenvolvimento em Lisboa"
+                ]
+            },
+            {
+                "nome": "Lindeman R.W.",
+                "afiliacoes": [
+                    "Human Interface Technology Laboratory New Zealand"
+                ]
+            },
+            {
+                "nome": "Pereira J.M.",
+                "afiliacoes": [
+                    "Instituto de Engenharia de Sistemas e Computadores: Investigação e Desenvolvimento em Lisboa"
+                ]
+            },
+            {
+                "nome": "Johnsen K.",
+                "afiliacoes": [
+                    "College of Engineering"
+                ]
+            },
+            {
+                "nome": "Jorge J.",
+                "afiliacoes": [
+                    "Instituto de Engenharia de Sistemas e Computadores: Investigação e Desenvolvimento em Lisboa"
+                ]
+            }
+        ],
+        "doi": "10.1109/ACCESS.2022.3233312"
+    },
+    {
+        "titulo": "Lifetime of forage grasses submitted to different water regimes using survival analysis",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Acta Scientiarum Technology",
+        "ISSN": "18062563",
+        "autores": [
+            {
+                "nome": "de Lucena L.R.R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Mello Vieria Leite M.L.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "de Lima Costa Á.C.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Caraciolo J.P.S.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Silva J.R.I.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.4025/actascitechnol.v45i1.60820"
+    },
+    {
+        "titulo": "GoThrough: A tool to render and interact with arbitrary planar transformative portals",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Entertainment Computing",
+        "ISSN": "18759521",
+        "autores": [
+            {
+                "nome": "Silva L.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Figueiredo L.S.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco",
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Gomes A.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Teichrieb V.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1016/j.entcom.2022.100529"
+    },
+    {
+        "titulo": "LongReMix: Robust learning with high confidence samples in a noisy label environment",
+        "data_publicacao": "2023-01-01",
+        "periodico": "Pattern Recognition",
+        "ISSN": "00313203",
+        "autores": [
+            {
+                "nome": "Cordeiro F.R.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Sachdeva R.",
+                "afiliacoes": [
+                    "University of Oxford"
+                ]
+            },
+            {
+                "nome": "Belagiannis V.",
+                "afiliacoes": [
+                    "Otto-von-Guericke-Universität Magdeburg"
+                ]
+            },
+            {
+                "nome": "Reid I.",
+                "afiliacoes": [
+                    "The University of Adelaide"
+                ]
+            },
+            {
+                "nome": "Carneiro G.",
+                "afiliacoes": [
+                    "The University of Adelaide",
+                    "University of Surrey"
+                ]
+            }
+        ],
+        "doi": "10.1016/j.patcog.2022.109013"
+    },
+    {
+        "titulo": "The Developers’ Design Thinking Toolbox in Hackathons: A Study on the Recurring Design Methods in Software Development Marathons",
+        "data_publicacao": "2023-01-01",
+        "periodico": "International Journal of Human Computer Interaction",
+        "ISSN": "10447318",
+        "autores": [
+            {
+                "nome": "Gama K.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Valença G.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Alessio P.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Formiga R.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Neves A.",
+                "afiliacoes": [
+                    "Universidade Federal de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Lacerda N.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1080/10447318.2022.2075601"
+    }
+]
