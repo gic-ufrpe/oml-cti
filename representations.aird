@@ -11,6 +11,10 @@
     <semanticResources>build/oml/www.w3.org/2000/01/rdf-schema.oml</semanticResources>
     <semanticResources>build/oml/www.w3.org/1999/02/22-rdf-syntax-ns.oml</semanticResources>
     <semanticResources>build/oml/www.w3.org/2003/11/swrlb.oml</semanticResources>
+    <semanticResources>src/oml/gic.ufrpe.br/cti/description/ppg.oml</semanticResources>
+    <semanticResources>src/oml/gic.ufrpe.br/cti/description/artigos.oml</semanticResources>
+    <semanticResources>src/oml/gic.ufrpe.br/cti/description/autores.oml</semanticResources>
+    <semanticResources>src/oml/gic.ufrpe.br/cti/description/new.oml</semanticResources>
     <ownedViews xmi:type="viewpoint:DView" uid="_3dMfkCHuEfGIvsLtsiwhEQ">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/io.opencaesar.rosetta.sirius.viewpoint/description/oml.odesign#//@ownedViewpoints[name='Vocabularies']"/>
       <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_RmuNMCHvEfGIvsLtsiwhEQ" name="Cti Editor" repPath="#_Rms_ECHvEfGIvsLtsiwhEQ" changeId="1773745332847">

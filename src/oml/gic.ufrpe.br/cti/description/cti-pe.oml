@@ -5597,41 +5597,161 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 
 
 
+	// =====================================================================
+	// PERIÓDICOS
+	// =====================================================================
 
+	instance periodico-cti4 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "ACM International Conference Proceeding Series"
+	]
 
+	instance periodico-cti5 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Computers and Education Artificial Intelligence"
+	]
 
+	instance periodico-cti6 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Journal of Cloud Computing"
+	]
 
+	instance periodico-cti7 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Eurasip Journal on Image and Video Processing"
+		cti:ds_isbn_issn "16875176"
+	]
 
-	instance periodico-cti2 : cti:Veiculo_Publicacao [ // novo veículo de publicação
+	instance periodico-cti8 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Science of Computer Programming"
+		cti:ds_isbn_issn "01676423"
+	]
+
+	instance periodico-cti9 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "International Journal of Artificial Intelligence in Education"
+		cti:ds_isbn_issn "15604292"
+	]
+
+	instance periodico-cti10 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Animal Biotelemetry"
+	]
+
+	instance periodico-cti11 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Sustainability Switzerland"
+	]
+
+	instance periodico-cti12 : cti:Veiculo_Publicacao [
 		cti:nm_veiculo_publicacao "Journal of Network and Systems Management"
-		cti:ds_isbn_issn "1573-7705"		
-	]
-	
-	instance periodico-cti3 : cti:Veiculo_Publicacao [ // novo veículo de publicação
-		cti:nm_veiculo_publicacao "Dependable and Secure Computing - Conference Paper"
+		cti:ds_isbn_issn "10647570"
 	]
 
-	instance artigo-cti-5 : cti:Producao_Cientifica [  // novo artigo
-		cti:an_base_producao 2026
-		cti:ds_natureza "Artigo em periódico"
-		cti:nm_titulo "S-iNAS: A Performance-Centric SRN Modeling and Analysis of Time and Event Based Scaling Strategies in Ceph-Based Industrial Network-Attached Storage"
-		cti:ds_doi "10.1007/s10922-025-10005-6"
-		cti:publicada periodico-cti2 
-	]
-	
-	instance artigo-cti-6 : cti:Producao_Cientifica [  // novo artigo
-		cti:an_base_producao 2026
-		cti:ds_natureza "Artigo em periódico"
-		cti:nm_titulo "Impact of Image Resolution on Drone Surveillance System Availability: A Stochastic Petri Net Approach"
-		cti:ds_doi "10.1007/s10922-025-10005-6"
-		cti:publicada periodico-cti3
+	instance periodico-cti13 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Applied Soft Computing"
+		cti:ds_isbn_issn "15684946"
 	]
 
-	instance autor-gustavo-callou : cti:Autor [  // novo autor
-		cti:id_pessoa 17
-		cti:nm_pessoa "Gustavo Callou"
-		cti:autoria artigo-cti-5
-		cti:autoria artigo-cti-6 
+	instance periodico-cti14 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "CLEI Electronic Journal"
+		cti:ds_isbn_issn "07175000"
+	]
+
+	instance periodico-cti15 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "27th Ibero American Conference on Software Engineering Cibse 2024"
+	]
+
+	instance periodico-cti16 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Proceedings of the International Joint Conference on Neural Networks"
+	]
+
+	instance periodico-cti17 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Computers and Graphics Pergamon"
+		cti:ds_isbn_issn "00978493"
+	]
+
+	instance periodico-cti18 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Information Switzerland"
+	]
+
+	instance periodico-cti19 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Doceng 2024 Proceedings of the 2024 ACM Symposium on Document Engineering"
+	]
+
+	instance periodico-cti20 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Applied Sciences Switzerland"
+	]
+
+
+	instance periodico-cti22 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "ISPRS Journal of Photogrammetry and Remote Sensing"
+		cti:ds_isbn_issn "09242716"
+	]
+
+	instance periodico-cti23 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Sensors"
+	]
+
+	instance periodico-cti24 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Software and Systems Modeling"
+		cti:ds_isbn_issn "16191366"
+	]
+
+	instance periodico-cti25 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Journal of Learning Analytics"
+	]
+
+	instance periodico-cti26 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Neurocomputing"
+		cti:ds_isbn_issn "09252312"
+	]
+
+	instance periodico-cti27 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Proceedings 2024 IEEE Winter Conference on Applications of Computer Vision Wacv 2024"
+	]
+
+	instance periodico-cti28 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "2024 IEEE Latin American Conference on Computational Intelligence La Cci 2024 Proceedings"
+	]
+
+	instance periodico-cti29 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Ceur Workshop Proceedings"
+		cti:ds_isbn_issn "16130073"
+	]
+
+	instance periodico-cti30 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Brazilian Symposium of Computer Graphic and Image Processing"
+		cti:ds_isbn_issn "15301834"
+	]
+
+	instance periodico-cti31 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Proceedings 2024 IEEE International Conference on Software Testing Verification and Validation Workshops Icstw 2024"
+	]
+
+	instance periodico-cti32 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Journal on Interactive Systems"
+	]
+
+	instance periodico-cti33 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Acta Scientiarum Technology"
+		cti:ds_isbn_issn "18062563"
+	]
+
+	instance periodico-cti34 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "2024 IEEE Congress on Evolutionary Computation CEC 2024 Proceedings"
+	]
+
+	instance periodico-cti35 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Communications in Computer and Information Science"
+		cti:ds_isbn_issn "18650929"
+	]
+
+	instance periodico-cti36 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "IEEE Access"
+	]
+
+	instance periodico-cti37 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "Journal of Universal Computer Science"
+		cti:ds_isbn_issn "0948695X"
+	]
+
+	instance periodico-cti38 : cti:Veiculo_Publicacao [
+		cti:nm_veiculo_publicacao "International Journal of Computational Science and Engineering"
+		cti:ds_isbn_issn "17427185"
 	]
 
 
@@ -5645,305 +5765,853 @@ description <http://gic.ufrpe.br/cti/description/cti-pe#> as cti-pe {
 
 
 
-	// ---------------------------------------------------------------------
-	// Instituições de Ciência e Tecnologia (ICT)
-	// ---------------------------------------------------------------------
-	/*instance ict-ufrpe : cti:ICT [
-		cti:cd_entidade_capes "23004"
-		cti:sg_entidade_ensino "UFRPE"
-		cti:nm_entidade_ensino "Universidade Federal Rural de Pernambuco"
-		cti:sg_uf "PE"
-	]
 
-	instance ict-ufpe : cti:ICT [
-		cti:cd_entidade_capes "25002"
-		cti:sg_entidade_ensino "UFPE"
-		cti:nm_entidade_ensino "Universidade Federal de Pernambuco"
-		cti:sg_uf "PE"
-	]*/
+	// =====================================================================
+	// ARTIGOS
+	// =====================================================================
 
-	// ---------------------------------------------------------------------
-	// Programas de Pós-Graduação (PPG) e conceitos CAPES
-	// ---------------------------------------------------------------------
-	/*instance ppg-cti-ufrpe : cti:PPG [
-		cti:cd_programa_ies "23004012001P5"
-		cti:nm_programa_ies "PPG em Ciência, Tecnologia e Inovação"
-		cti:nm_modalidade_programa "Acadêmico"
-		cti:nm_area_conhecimento "Interdisciplinar"
-		cti:sediado ict-ufrpe
-		cti:avaliado conceito-ppg-cti-ufrpe-2021
-	]
-
-	instance conceito-ppg-cti-ufrpe-2021 : cti:Conceito_PPG [
-		cti:an_base_conceito 2021
-		cti:cd_conceito_programa "6"
-	]
-
-	instance conceito-ppg-engenharia-producao-ufpe-2021 : cti:Conceito_PPG [
-		cti:an_base_conceito 2021
-		cti:cd_conceito_programa "5"
-	]
-
-	instance ppg-engenharia-producao-ufpe : cti:PPG [
-		cti:cd_programa_ies "25002019001P3"
-		cti:nm_programa_ies "PPG em Engenharia de Produção"
-		cti:nm_modalidade_programa "Acadêmico"
-		cti:nm_area_conhecimento "Engenharias"
-		cti:sediado ict-ufpe
-		cti:avaliado conceito-ppg-engenharia-producao-ufpe-2021
-	]*/
-
-	// ---------------------------------------------------------------------
-	// Docentes
-	// ---------------------------------------------------------------------
-	// Docentes da UFRPE (PPG CTI)
-	/*instance docente-ana : cti:Docente [
-		cti:id_pessoa 1
-		cti:nr_documento "00000000000"
-		cti:nm_pessoa "Ana Silva"
-		cti:an_nascimento 1980
-		cti:nm_pais_nacionalidade "Brasil"
-		cti:ds_regime_trabalho "Dedicação exclusiva"
-		// membro do PPG CTI da UFRPE
-		cti:membro ppg-cti-ufrpe
-	]
-
-	instance docente-carlos : cti:Docente [
-		cti:id_pessoa 2
-		cti:nr_documento "11111111111"
-		cti:nm_pessoa "Carlos Pereira"
-		cti:an_nascimento 1975
-		cti:nm_pais_nacionalidade "Brasil"
-		cti:ds_regime_trabalho "Tempo integral"
-		cti:membro ppg-cti-ufrpe
-	]
-
-	instance docente-joao : cti:Docente [
-		cti:id_pessoa 3
-		cti:nr_documento "22222222222"
-		cti:nm_pessoa "João Oliveira"
-		cti:an_nascimento 1982
-		cti:nm_pais_nacionalidade "Brasil"
-		cti:ds_regime_trabalho "Tempo parcial"
-		cti:membro ppg-cti-ufrpe
-	]*/
-
-	// Docentes da UFPE (PPG Engenharia de Produção)
-	/*instance docente-maria : cti:Docente [
-		cti:id_pessoa 4
-		cti:nr_documento "33333333333"
-		cti:nm_pessoa "Maria Souza"
-		cti:an_nascimento 1978
-		cti:nm_pais_nacionalidade "Brasil"
-		cti:ds_regime_trabalho "Dedicação exclusiva"
-		cti:membro ppg-engenharia-producao-ufpe
-	]
-
-	instance docente-ricardo : cti:Docente [
-		cti:id_pessoa 5
-		cti:nr_documento "44444444444"
-		cti:nm_pessoa "Ricardo Lima"
-		cti:an_nascimento 1973
-		cti:nm_pais_nacionalidade "Brasil"
-		cti:ds_regime_trabalho "Tempo integral"
-		cti:membro ppg-engenharia-producao-ufpe
-	]
-
-	instance docente-luiza : cti:Docente [
-		cti:id_pessoa 6
-		cti:nr_documento "55555555555"
-		cti:nm_pessoa "Luiza Carvalho"
-		cti:an_nascimento 1985
-		cti:nm_pais_nacionalidade "Brasil"
-		cti:ds_regime_trabalho "Tempo parcial"
-		cti:membro ppg-engenharia-producao-ufpe
-	]*/
-
-	// ---------------------------------------------------------------------
-	// Discentes
-	// ---------------------------------------------------------------------
-	// Discentes da UFRPE (PPG CTI)
-	/*instance discente-bruno : cti:Discente [
-		cti:id_pessoa 7
-		cti:nm_pessoa "Bruno Souza"
-		cti:nm_situacao_discente "Matriculado"
-		cti:vinculado ppg-cti-ufrpe
-		cti:orientador docente-ana
-	]
-
-	instance discente-carla : cti:Discente [
-		cti:id_pessoa 8
-		cti:nm_pessoa "Carla Santos"
-		cti:nm_situacao_discente "Egresso"
-		cti:vinculado ppg-cti-ufrpe
-		cti:orientador docente-carlos
-	]
-
-	// Discentes da UFPE (PPG Engenharia de Produção)
-	instance discente-paulo : cti:Discente [
-		cti:id_pessoa 9
-		cti:nm_pessoa "Paulo Ferreira"
-		cti:nm_situacao_discente "Matriculado"
-		cti:vinculado ppg-engenharia-producao-ufpe
-		cti:orientador docente-maria
-	]
-
-	instance discente-larissa : cti:Discente [
-		cti:id_pessoa 10
-		cti:nm_pessoa "Larissa Freitas"
-		cti:nm_situacao_discente "Egresso"
-		cti:vinculado ppg-engenharia-producao-ufpe
-		cti:orientador docente-ricardo
-	]*/
-
-	// ---------------------------------------------------------------------
-	// Autores (para associar às produções científicas)
-	// ---------------------------------------------------------------------
-	/*instance periodico-cti : cti:Veiculo_Publicacao [
-		cti:nm_veiculo_publicacao "Revista Brasileira de CT&I"
-		cti:ds_isbn_issn "1234-5678"
-	]
-
-	instance periodico-inovacao : cti:Veiculo_Publicacao [
-		cti:nm_veiculo_publicacao "Journal of Innovation and Technology"
-		cti:ds_isbn_issn "8765-4321"
-	]*/
-	
-
-
-
-	// ---------------------------------------------------------------------
-	// Produções científicas (3-5 itens por PPG)
-	// ---------------------------------------------------------------------
-	// Produções do PPG CTI (UFRPE)
-	/*instance artigo-cti-1 : cti:Producao_Cientifica [
-		cti:an_base_producao 2022
-		cti:ds_natureza "Artigo em periódico"
-		cti:nm_titulo "Indicadores de CT&I em Pernambuco: uma análise exploratória"
-		cti:ds_doi "10.1234/cti.2022.0001"
-		cti:publicada periodico-cti
-	]
-
-	instance artigo-cti-2 : cti:Producao_Cientifica [
-		cti:an_base_producao 2023
-		cti:ds_natureza "Artigo em periódico"
-		cti:nm_titulo "Redes de colaboração científica no Nordeste brasileiro"
-		cti:ds_doi "10.1234/cti.2023.0002"
-		cti:publicada periodico-cti
-	]
-
-	instance artigo-cti-3 : cti:Producao_Cientifica [
+	instance artigo-cti-7 : cti:Producao_Cientifica [
 		cti:an_base_producao 2024
 		cti:ds_natureza "Artigo em periódico"
-		cti:nm_titulo "Inovação aberta e universidades públicas: o caso de Pernambuco"
-		cti:ds_doi "10.1234/cti.2024.0003"
-		cti:publicada periodico-inovacao
+		cti:nm_titulo "GranDIHC-BR 2025-2035 - GC6: Implications of Artificial Intelligence in HCI: A Discussion on Paradigms Ethics and Diversity Equity and Inclusion"
+		cti:ds_doi "10.1145/3702038.3702059"
+		cti:publicada periodico-cti4
 	]
 
-	instance artigo-cti-4 : cti:Producao_Cientifica [
+	instance artigo-cti-8 : cti:Producao_Cientifica [
 		cti:an_base_producao 2024
 		cti:ds_natureza "Artigo em periódico"
-		cti:nm_titulo "Formação de recursos humanos em CT&I na Região Nordeste"
-		cti:ds_doi "10.1234/cti.2024.0004"
-		cti:publicada periodico-inovacao
-	]*/
-
-
-
-
-
-	// Produções do PPG Engenharia de Produção (UFPE)
-	/*instance artigo-ep-1 : cti:Producao_Cientifica [
-		cti:an_base_producao 2021
-		cti:ds_natureza "Artigo em periódico"
-		cti:nm_titulo "Eficiência de processos produtivos na indústria pernambucana"
-		cti:ds_doi "10.5678/ep.2021.0001"
-		cti:publicada periodico-cti
+		cti:nm_titulo "Towards the regulation of Large Language Models (LLMs) and Generative AI use in the Brazilian Government: The case of a State Court of Accounts"
+		cti:ds_doi "10.1145/3680127.3680219"
+		cti:publicada periodico-cti4
 	]
 
-	instance artigo-ep-2 : cti:Producao_Cientifica [
-		cti:an_base_producao 2022
-		cti:ds_natureza "Artigo em periódico"
-		cti:nm_titulo "Aplicações de indústria 4.0 em cadeias produtivas locais"
-		cti:ds_doi "10.5678/ep.2022.0002"
-		cti:publicada periodico-cti
-	]
-
-	instance artigo-ep-3 : cti:Producao_Cientifica [
-		cti:an_base_producao 2023
-		cti:ds_natureza "Artigo em periódico"
-		cti:nm_titulo "Modelagem de sistemas de produção sustentáveis em Pernambuco"
-		cti:ds_doi "10.5678/ep.2023.0003"
-		cti:publicada periodico-inovacao
-	]
-
-	instance artigo-ep-4 : cti:Producao_Cientifica [
+	instance artigo-cti-9 : cti:Producao_Cientifica [
 		cti:an_base_producao 2024
 		cti:ds_natureza "Artigo em periódico"
-		cti:nm_titulo "Análise de capacidade inovativa em parques tecnológicos"
-		cti:ds_doi "10.5678/ep.2024.0004"
-		cti:publicada periodico-inovacao
-	]*/
-
-	// Relações de autoria representadas como propriedades nos autores
-	/*instance autor-ana : cti:Autor [
-		cti:id_pessoa 11
-		cti:nm_pessoa "Ana Silva"
-		cti:ds_orc_id "0000-0001-0000-000A"
-		cti:autoria artigo-cti-1
-		cti:autoria artigo-cti-2
-		cti:mensurado cti-pe:citacao-ana-2024
+		cti:nm_titulo "Enhancing Feedback Quality at Scale: Leveraging Machine Learning for Learner-Centered Feedback"
+		cti:ds_doi "10.1016/j.caeai.2024.100332"
+		cti:publicada periodico-cti5
 	]
 
-	instance autor-carlos : cti:Autor [
-		cti:id_pessoa 12
-		cti:nm_pessoa "Carlos Pereira"
-		cti:ds_orc_id "0000-0001-0000-000C"
-		cti:autoria artigo-cti-1
-		cti:autoria artigo-cti-3
+	instance artigo-cti-10 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Should I use my imagination?’ An attempt at co-designing a game editor within an app for alternative communication with children with autism"
+		cti:ds_doi "10.1145/3702038.3702039"
+		cti:publicada periodico-cti4
 	]
 
-	instance autor-joao : cti:Autor [
-		cti:id_pessoa 13
-		cti:nm_pessoa "João Oliveira"
-		cti:autoria artigo-cti-2
-		cti:autoria artigo-cti-4
+	instance artigo-cti-11 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Children’s Rights not Deceptive Patterns by Design: a Requirements Perspective"
+		cti:ds_doi "10.1145/3702038.3702064"
+		cti:publicada periodico-cti4
 	]
 
-	instance autor-maria : cti:Autor [
-		cti:id_pessoa 14
-		cti:nm_pessoa "Maria Souza"
-		cti:autoria artigo-ep-1
-		cti:autoria artigo-ep-2
-		cti:mensurado cti-pe:citacao-maria-2024
+	instance artigo-cti-12 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "A new perspective for longitudinal measurement and analysis of public education in Brazil based on open data and machine learning"
+		cti:ds_doi "10.1145/3680127.3680216"
+		cti:publicada periodico-cti4
 	]
 
-	instance autor-ricardo : cti:Autor [
-		cti:id_pessoa 15
-		cti:nm_pessoa "Ricardo Lima"
-		cti:autoria artigo-ep-1
-		cti:autoria artigo-ep-4
+	instance artigo-cti-13 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Impacts of data consistency levels in cloud-based NoSQL for data-intensive applications"
+		cti:ds_doi "10.1186/s13677-024-00716-7"
+		cti:publicada periodico-cti6
 	]
 
-	instance autor-luiza : cti:Autor [
-		cti:id_pessoa 16
-		cti:nm_pessoa "Luiza Carvalho"
-		cti:autoria artigo-ep-3
-	]*/
-
-
-
-	// ---------------------------------------------------------------------
-	// Medidas de citação
-	// ---------------------------------------------------------------------
-	
-	/*instance citacao-ana-2024 : cti:Citacao [
-		cti:an_base_citacao 2024
-		cti:nr_citacoes_autor 25
+	instance artigo-cti-14 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Evaluation of the use of box size priors for 6D plane segment tracking from point clouds with applications in cargo packing"
+		cti:ds_doi "10.1186/s13640-024-00636-1"
+		cti:publicada periodico-cti7
 	]
 
-	instance citacao-maria-2024 : cti:Citacao [
-		cti:an_base_citacao 2024
-		cti:nr_citacoes_autor 40
-	]*/
+	instance artigo-cti-15 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Selected papers from the 25th Brazilian Symposium on Formal Methods – SBMF 2022"
+		cti:ds_doi "10.1016/j.scico.2024.103133"
+		cti:publicada periodico-cti8
+	]
+
+	instance artigo-cti-16 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Towards Explainable Prediction Feedback Messages Using BERT"
+		cti:ds_doi "10.1007/s40593-023-00375-w"
+		cti:publicada periodico-cti9
+	]
+
+	instance artigo-cti-17 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Metrics for Large-Scale Agile Development: A Survey of the Brazilian Software Industry"
+		cti:ds_doi "10.1145/3701625.3701660"
+		cti:publicada periodico-cti4
+	]
+
+	instance artigo-cti-18 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Habitat use and movement patterns of broad-snouted caimans (Caiman latirostris) in an impacted Atlantic forest environment in Brazil"
+		cti:ds_doi "10.1186/s40317-024-00388-9"
+		cti:publicada periodico-cti10
+	]
+
+	instance artigo-cti-19 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Multifractal Analysis of Standardized Precipitation Evapotranspiration Index in Serbia in the Context of Climate Change"
+		cti:ds_doi "10.3390/su16229857"
+		cti:publicada periodico-cti11
+	]
+
+	instance artigo-cti-20 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Availability and Performance Assessment of IoMT Systems: A Stochastic Modeling Approach"
+		cti:ds_doi "10.1007/s10922-024-09868-y"
+		cti:publicada periodico-cti12
+	]
+
+	instance artigo-cti-21 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Automated CNN optimization using multi-objective grammatical evolution"
+		cti:ds_doi "10.1016/j.asoc.2023.111124"
+		cti:publicada periodico-cti13
+	]
+
+	instance artigo-cti-22 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Agile tailoring in distributed large-scale environments using agile frameworks: A Systematic Literature Review"
+		cti:ds_doi "10.19153/cleiej.27.1.8"
+		cti:publicada periodico-cti14
+	]
+
+	instance artigo-cti-23 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "GranDIHC-BR 2025-2035 - GC3: Plurality and Decoloniality in HCI"
+		cti:ds_doi "10.1145/3702038.3702056"
+		cti:publicada periodico-cti4
+	]
+
+	instance artigo-cti-24 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Social Media for Predicting the Mexican Presidential Election: Beyond X and Facebook"
+		cti:ds_doi "10.1145/3680127.3680213"
+		cti:publicada periodico-cti4
+	]
+
+	instance artigo-cti-25 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Towards a Methodology for Analyzing Visual Elements in Social Media Posts of Politicians"
+		cti:ds_doi "10.1145/3680127.3680218"
+		cti:publicada periodico-cti4
+	]
+
+	instance artigo-cti-26 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Benchmark for Public Ombudsman Portals of the State Courts of Accounts in Brazil"
+		cti:ds_doi "10.1145/3657054.3657139"
+		cti:publicada periodico-cti4
+	]
+
+	instance artigo-cti-27 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Metrics in Large-Scale Agile Software Development: A Multivocal Literature Review"
+		cti:publicada periodico-cti15
+	]
+
+	instance artigo-cti-28 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Machine Learning and IoT for Predicting the Productivity of MRI Equipment"
+		cti:ds_doi "10.1109/IJCNN60899.2024.10650835"
+		cti:publicada periodico-cti16
+	]
+
+	instance artigo-cti-29 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Fast direct multi-person radiance fields from sparse input with dense pose priors"
+		cti:ds_doi "10.1016/j.cag.2024.104063"
+		cti:publicada periodico-cti17
+	]
+
+	instance artigo-cti-30 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Gaussian Kernel Approximations Require Only Bit-Shifts"
+		cti:ds_doi "10.3390/info15100618"
+		cti:publicada periodico-cti18
+	]
+
+	instance artigo-cti-31 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Assessing Abstractive and Extractive Methods for Automatic News Summarization"
+		cti:ds_doi "10.1145/3685650.3685664"
+		cti:publicada periodico-cti19
+	]
+
+	instance artigo-cti-32 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Evaluation of the Nutritional Quality and Shelf Life of Fermented Processed Sheep Salami Inoculated with Lactobacillus casei and Lactobacillus paracasei"
+		cti:ds_doi "10.3390/app14135509"
+		cti:publicada periodico-cti20
+	]
+
+	instance artigo-cti-34 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Regression model for speckled data with extreme variability"
+		cti:ds_doi "10.1016/j.isprsjprs.2024.05.009"
+		cti:publicada periodico-cti22
+	]
+
+	instance artigo-cti-35 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Delay Compensation in a Feeder–Conveyor System Using the Smith Predictor: A Case Study in an Iron Ore Processing Plant"
+		cti:ds_doi "10.3390/s24123870"
+		cti:publicada periodico-cti23
+	]
+
+	instance artigo-cti-36 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "A formal component model for UML based on CSP aiming at compositional verification"
+		cti:ds_doi "10.1007/s10270-023-01127-z"
+		cti:publicada periodico-cti24
+	]
+
+	instance artigo-cti-37 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Towards Improving Rhetorical Categories Classification and Unveiling Sequential Patterns in Students' Writing"
+		cti:ds_doi "10.1145/3636555.3636927"
+		cti:publicada periodico-cti4
+	]
+
+	instance artigo-cti-38 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "MMALA: Developing and Evaluating a Maturity Model for Adopting Learning Analytics"
+		cti:ds_doi "10.18608/jla.2024.8099"
+		cti:publicada periodico-cti25
+	]
+
+	instance artigo-cti-39 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Training and meta-training an ensemble of binary neural networks with quantum computing"
+		cti:ds_doi "10.1016/j.neucom.2023.127169"
+		cti:publicada periodico-cti26
+	]
+
+	instance artigo-cti-40 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "An Evolutionary Approach to Forecasting Models Hybridization"
+		cti:ds_doi "10.1145/3651671.3651675"
+		cti:publicada periodico-cti4
+	]
+
+	instance artigo-cti-41 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study"
+		cti:ds_doi "10.1109/WACV57701.2024.00806"
+		cti:publicada periodico-cti27
+	]
+
+	instance artigo-cti-42 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Towards the Identification of Money Laundering in Bank Transactions using Recurrent Neural Networks"
+		cti:ds_doi "10.1109/LA-CCI62337.2024.10814854"
+		cti:publicada periodico-cti28
+	]
+
+	instance artigo-cti-43 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Towards Generating Complex Alignments with Large Language Models via Prompt Engineering"
+		cti:publicada periodico-cti29
+	]
+
+	instance artigo-cti-44 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Results of CANARD in OAEI 2024"
+		cti:publicada periodico-cti29
+	]
+
+	instance artigo-cti-45 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Mean Teacher for Unsupervised Domain Adaptation in Multi- View 3D Pedestrian Detection"
+		cti:ds_doi "10.1109/SIBGRAPI62404.2024.10716327"
+		cti:publicada periodico-cti30
+	]
+
+	instance artigo-cti-46 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "RetryTRACK: Recovering Misses in Multi-Camera 3D Pedestrian Tracking"
+		cti:ds_doi "10.1109/SIBGRAPI62404.2024.10716329"
+		cti:publicada periodico-cti30
+	]
+
+	instance artigo-cti-47 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Elevating Software Quality in Agile Environments: The Role of Testing Professionals in Unit Testing"
+		cti:ds_doi "10.1109/ICSTW60967.2024.00058"
+		cti:publicada periodico-cti31
+	]
+
+	instance artigo-cti-48 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Social-Digital Inclusion of People with Intellectual Disability: a study with the assisted of APAE in Serra Talhada"
+		cti:ds_doi "10.5753/jis.2024.3777"
+		cti:publicada periodico-cti32
+	]
+
+	instance artigo-cti-49 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Lifetime of forage cactus submitted to different water and saline levels"
+		cti:ds_doi "10.4025/actascitechnol.v46i1.67282"
+		cti:publicada periodico-cti33
+	]
+
+	instance artigo-cti-50 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Tracking technical debt in agile low code developments"
+		cti:publicada periodico-cti15
+	]
+
+	instance artigo-cti-51 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Learning Agents' Behavioral Patterns in Agent-Based Modeling by Means of Evolutionary Algorithms"
+		cti:ds_doi "10.1109/CEC60901.2024.10612079"
+		cti:publicada periodico-cti34
+	]
+
+	instance artigo-cti-52 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "An Experimental Analysis on Automated Machine Learning for Software Defect Prediction"
+		cti:ds_doi "10.1109/CEC60901.2024.10611946"
+		cti:publicada periodico-cti34
+	]
+
+	instance artigo-cti-53 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "LAFe: Learning Analytics Solutions to Support On-Time Feedback"
+		cti:ds_doi "10.1007/978-3-031-64312-5_61"
+		cti:publicada periodico-cti35
+	]
+
+	instance artigo-cti-54 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Data-Driven Strategies for Achieving School Equity: Insights From Brazil and Policy Recommendations"
+		cti:ds_doi "10.1109/ACCESS.2024.3422822"
+		cti:publicada periodico-cti36
+	]
+
+	instance artigo-cti-55 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "UP-Home: A Self-Adaptive Solution for Smart Home Security"
+		cti:ds_doi "10.3897/jucs.107050"
+		cti:publicada periodico-cti37
+	]
+
+	instance artigo-cti-56 : cti:Producao_Cientifica [
+		cti:an_base_producao 2024
+		cti:ds_natureza "Artigo em periódico"
+		cti:nm_titulo "Availability assessment and sensitivity analysis of an MBaaS platform"
+		cti:ds_doi "10.1504/IJCSE.2024.138418"
+		cti:publicada periodico-cti38
+	]
+
+
+
+
+
+
+
+
+
+	// =====================================================================
+	// AUTORES
+	// =====================================================================
+
+	instance autor-nascimento-a : cti:Autor [
+		cti:id_pessoa 18
+		cti:nm_pessoa "Nascimento A."
+		cti:autoria artigo-cti-7
+		cti:autoria artigo-cti-10
+	]
+
+	instance autor-valenca-g : cti:Autor [
+		cti:id_pessoa 19
+		cti:nm_pessoa "Valença G."
+		cti:autoria artigo-cti-8
+		cti:autoria artigo-cti-10
+		cti:autoria artigo-cti-11
+		cti:autoria artigo-cti-12
+	]
+
+	instance autor-mello-r : cti:Autor [
+		cti:id_pessoa 20
+		cti:nm_pessoa "Mello R.F."
+		cti:autoria artigo-cti-9
+		cti:autoria artigo-cti-16
+		cti:autoria artigo-cti-37
+		cti:autoria artigo-cti-53
+		cti:autoria artigo-cti-54
+	]
+
+	instance autor-falcao-t : cti:Autor [
+		cti:id_pessoa 21
+		cti:nm_pessoa "Pontual Falcão T."
+		cti:autoria artigo-cti-7
+		cti:autoria artigo-cti-10
+		cti:autoria artigo-cti-38
+	]
+
+	instance autor-ferreira-s : cti:Autor [
+		cti:id_pessoa 22
+		cti:nm_pessoa "Ferreira S."
+		cti:autoria artigo-cti-13
+	]
+
+	instance autor-lima-l : cti:Autor [
+		cti:id_pessoa 23
+		cti:nm_pessoa "Lima L."
+		cti:autoria artigo-cti-15
+		cti:autoria artigo-cti-36
+	]
+
+	instance autor-marinho-m : cti:Autor [
+		cti:id_pessoa 24
+		cti:nm_pessoa "Marinho M."
+		cti:autoria artigo-cti-17
+		cti:autoria artigo-cti-27
+		cti:autoria artigo-cti-50
+	]
+
+	instance autor-sampaio-s : cti:Autor [
+		cti:id_pessoa 25
+		cti:nm_pessoa "Sampaio S."
+		cti:autoria artigo-cti-17
+		cti:autoria artigo-cti-27
+	]
+
+	instance autor-mascarenhas-p : cti:Autor [
+		cti:id_pessoa 26
+		cti:nm_pessoa "Mascarenhas-Junior P.B."
+		cti:autoria artigo-cti-18
+	]
+
+	instance autor-correia-j : cti:Autor [
+		cti:id_pessoa 27
+		cti:nm_pessoa "Correia J.M.S."
+		cti:autoria artigo-cti-18
+	]
+
+	instance autor-stosic-t : cti:Autor [
+		cti:id_pessoa 28
+		cti:nm_pessoa "Stosic T."
+		cti:autoria artigo-cti-19
+	]
+
+	instance autor-stosic-b : cti:Autor [
+		cti:id_pessoa 29
+		cti:nm_pessoa "Stosic B."
+		cti:autoria artigo-cti-19
+	]
+
+	instance autor-callou-g : cti:Autor [
+		cti:id_pessoa 30
+		cti:nm_pessoa "Callou G."
+		cti:autoria artigo-cti-20
+		cti:autoria artigo-cti-56
+	]
+
+	instance autor-silva-c : cti:Autor [
+		cti:id_pessoa 31
+		cti:nm_pessoa "da Silva C.A.C.F."
+		cti:autoria artigo-cti-21
+	]
+
+	instance autor-miranda-p : cti:Autor [
+		cti:id_pessoa 32
+		cti:nm_pessoa "Miranda P.B.C."
+		cti:autoria artigo-cti-21
+		cti:autoria artigo-cti-28
+		cti:autoria artigo-cti-40
+		cti:autoria artigo-cti-51
+		cti:autoria artigo-cti-52
+	]
+
+	instance autor-menezes-r : cti:Autor [
+		cti:id_pessoa 33
+		cti:nm_pessoa "Menezes R."
+		cti:autoria artigo-cti-17
+		cti:autoria artigo-cti-27
+	]
+
+	instance autor-simoes-p : cti:Autor [
+		cti:id_pessoa 34
+		cti:nm_pessoa "Simões P.I."
+		cti:autoria artigo-cti-18
+	]
+
+	instance autor-bezerra-t : cti:Autor [
+		cti:id_pessoa 35
+		cti:nm_pessoa "Valentim Bezerra T."
+		cti:autoria artigo-cti-20
+	]
+
+	instance autor-si-t : cti:Autor [
+		cti:id_pessoa 36
+		cti:nm_pessoa "Si T."
+		cti:autoria artigo-cti-21
+	]
+
+	instance autor-rosa-d : cti:Autor [
+		cti:id_pessoa 37
+		cti:nm_pessoa "Rosa D.C."
+		cti:autoria artigo-cti-21
+	]
+
+	instance autor-camara-r : cti:Autor [
+		cti:id_pessoa 38
+		cti:nm_pessoa "Camara R."
+		cti:autoria artigo-cti-22
+	]
+
+	instance autor-santos-k : cti:Autor [
+		cti:id_pessoa 39
+		cti:nm_pessoa "Dos Santos K."
+		cti:autoria artigo-cti-24
+	]
+
+	instance autor-santana-j : cti:Autor [
+		cti:id_pessoa 40
+		cti:nm_pessoa "Santana J."
+		cti:autoria artigo-cti-25
+	]
+
+	instance autor-santana-m : cti:Autor [
+		cti:id_pessoa 41
+		cti:nm_pessoa "Santana M."
+		cti:autoria artigo-cti-25
+	]
+
+	instance autor-sampaio-p : cti:Autor [
+		cti:id_pessoa 42
+		cti:nm_pessoa "Sampaio P."
+		cti:autoria artigo-cti-25
+	]
+
+	instance autor-brito-k : cti:Autor [
+		cti:id_pessoa 43
+		cti:nm_pessoa "Brito K."
+		cti:autoria artigo-cti-8
+		cti:autoria artigo-cti-12
+		cti:autoria artigo-cti-25
+		cti:autoria artigo-cti-26
+	]
+
+	instance autor-silva-h : cti:Autor [
+		cti:id_pessoa 44
+		cti:nm_pessoa "Silva H."
+		cti:autoria artigo-cti-26
+	]
+
+	instance autor-monte-l : cti:Autor [
+		cti:id_pessoa 45
+		cti:nm_pessoa "Monte L."
+		cti:autoria artigo-cti-28
+	]
+
+	instance autor-nascimento-a-c-a : cti:Autor [
+		cti:id_pessoa 46
+		cti:nm_pessoa "Nascimento A.C.A."
+		cti:autoria artigo-cti-28
+	]
+
+	instance autor-miranda-a : cti:Autor [
+		cti:id_pessoa 47
+		cti:nm_pessoa "Miranda A."
+		cti:autoria artigo-cti-10
+	]
+
+	instance autor-machado-k : cti:Autor [
+		cti:id_pessoa 48
+		cti:nm_pessoa "Machado K."
+		cti:autoria artigo-cti-10
+	]
+
+	instance autor-cavalcanti-a-p : cti:Autor [
+		cti:id_pessoa 49
+		cti:nm_pessoa "Cavalcanti A.P."
+		cti:autoria artigo-cti-10
+	]
+
+	instance autor-pinto-neto-z : cti:Autor [
+		cti:id_pessoa 50
+		cti:nm_pessoa "Pinto Neto Z."
+		cti:autoria artigo-cti-10
+	]
+
+	instance autor-silva-j-v : cti:Autor [
+		cti:id_pessoa 51
+		cti:nm_pessoa "Silva J.V."
+		cti:autoria artigo-cti-11
+	]
+
+	instance autor-silva-m : cti:Autor [
+		cti:id_pessoa 52
+		cti:nm_pessoa "Silva M."
+		cti:autoria artigo-cti-12
+	]
+
+	instance autor-ferreira-a : cti:Autor [
+		cti:id_pessoa 53
+		cti:nm_pessoa "Ferreira A."
+		cti:autoria artigo-cti-12
+	]
+
+	instance autor-alves-k : cti:Autor [
+		cti:id_pessoa 54
+		cti:nm_pessoa "Alves K."
+		cti:autoria artigo-cti-8
+		cti:autoria artigo-cti-12
+	]
+
+	instance autor-lima-j-p : cti:Autor [
+		cti:id_pessoa 55
+		cti:nm_pessoa "Lima J.P."
+		cti:autoria artigo-cti-29
+		cti:autoria artigo-cti-45
+		cti:autoria artigo-cti-46
+	]
+
+	instance autor-coutinho-v-a : cti:Autor [
+		cti:id_pessoa 56
+		cti:nm_pessoa "Coutinho V.A."
+		cti:autoria artigo-cti-30	
+	]
+
+	instance autor-lins-r-d : cti:Autor [
+		cti:id_pessoa 57
+		cti:nm_pessoa "Lins R.D."
+		cti:autoria artigo-cti-31
+	]
+
+	instance autor-vale-n-m-d-s-d : cti:Autor [
+		cti:id_pessoa 58
+		cti:nm_pessoa "Vale N.M.D.S.D."
+		cti:autoria artigo-cti-32
+	]
+
+	instance autor-melo-m-r-p-d : cti:Autor [
+		cti:id_pessoa 59
+		cti:nm_pessoa "Melo M.R.P.D."
+		cti:autoria artigo-cti-32
+	]
+
+    instance autor-vasconcelos-j-m : cti:Autor [
+		cti:id_pessoa 60
+		cti:nm_pessoa "Vasconcelos J.M."
+		cti:autoria artigo-cti-34
+	]
+
+    instance autor-silva-m-t : cti:Autor [
+		cti:id_pessoa 61
+		cti:nm_pessoa "da Silva M.T."
+		cti:autoria artigo-cti-35
+	]
+
+    instance autor-marques-e : cti:Autor [
+		cti:id_pessoa 62
+		cti:nm_pessoa "Marques E."
+		cti:autoria artigo-cti-38
+	]
+
+    instance autor-leal-d-v : cti:Autor [
+		cti:id_pessoa 63
+		cti:nm_pessoa "Leal D.V."
+		cti:autoria artigo-cti-39
+	]
+
+    instance autor-ascendina-c : cti:Autor [
+		cti:id_pessoa 64
+		cti:nm_pessoa "Ascendina C."
+		cti:autoria artigo-cti-40
+	]
+
+	instance autor-mattos-neto-p : cti:Autor [
+		cti:id_pessoa 65
+		cti:nm_pessoa "De Mattos Neto P.S.G."
+		cti:autoria artigo-cti-40
+	]
+
+	instance autor-oliveira-j-f-l : cti:Autor [
+		cti:id_pessoa 66
+		cti:nm_pessoa "De Oliveira J.F.L."
+		cti:autoria artigo-cti-40
+	]
+
+	instance autor-simoes-f : cti:Autor [
+		cti:id_pessoa 67
+		cti:nm_pessoa "Simões F."
+		cti:autoria artigo-cti-41
+	]
+
+    instance autor-amaro-r : cti:Autor [
+		cti:id_pessoa 68
+		cti:nm_pessoa "Amaro R."
+		cti:autoria artigo-cti-42
+	]
+
+	instance autor-lima-r : cti:Autor [
+		cti:id_pessoa 69
+		cti:nm_pessoa "Lima R."
+		cti:autoria artigo-cti-43
+		cti:autoria artigo-cti-44
+	]
+
+    instance autor-magalhaes-c : cti:Autor [
+		cti:id_pessoa 70
+		cti:nm_pessoa "Magalhaes C."
+		cti:autoria artigo-cti-47
+	]
+
+    instance autor-santos-r : cti:Autor [
+		cti:id_pessoa 71
+		cti:nm_pessoa "Santos R."
+		cti:autoria artigo-cti-48
+	]
+
+	instance autor-souza-e : cti:Autor [
+		cti:id_pessoa 72
+		cti:nm_pessoa "Souza E."
+		cti:autoria artigo-cti-48
+	]
+
+	instance autor-sobral-d : cti:Autor [
+		cti:id_pessoa 73
+		cti:nm_pessoa "Sobral D."
+		cti:autoria artigo-cti-48
+	]
+
+	instance autor-apolinario-j : cti:Autor [
+		cti:id_pessoa 74
+		cti:nm_pessoa "Apolinário J."
+		cti:autoria artigo-cti-48
+	]
+
+	instance autor-caraciolo-j : cti:Autor [
+		cti:id_pessoa 75
+		cti:nm_pessoa "Caraciolo J.P.S."
+		cti:autoria artigo-cti-49
+	]
+
+	instance autor-lucena-l : cti:Autor [
+		cti:id_pessoa 76
+		cti:nm_pessoa "de Lucenav L.R.R."
+		cti:autoria artigo-cti-49
+	]
+
+	instance autor-silva-j-r-i : cti:Autor [
+		cti:id_pessoa 77
+		cti:nm_pessoa "Silva J.R.I."
+		cti:autoria artigo-cti-49
+	]
+
+	instance autor-bezerra-r : cti:Autor [
+		cti:id_pessoa 78
+		cti:nm_pessoa "Bezerra R.C.A."
+		cti:autoria artigo-cti-49
+	]
+
+	instance autor-vieira-m : cti:Autor [
+		cti:id_pessoa 79
+		cti:nm_pessoa "Vieira M.L.d.M."
+		cti:autoria artigo-cti-49
+	]
+
+	instance autor-domingues-r : cti:Autor [
+		cti:id_pessoa 80
+		cti:nm_pessoa "Domingues R."
+		cti:autoria artigo-cti-50
+	]
+
+	instance autor-silva-filho-m-w : cti:Autor [
+		cti:id_pessoa 81
+		cti:nm_pessoa "Silva-Filho M.W."
+		cti:autoria artigo-cti-51
+	]
+
+	instance autor-alves-g : cti:Autor [
+		cti:id_pessoa 82
+		cti:nm_pessoa "Alves G."
+		cti:autoria artigo-cti-53
+	]
+
+	instance autor-aires-f : cti:Autor [
+		cti:id_pessoa 83
+		cti:nm_pessoa "Aires F."
+		cti:autoria artigo-cti-55
+	]
+
+    instance autor-santos-e : cti:Autor [
+		cti:id_pessoa 84
+		cti:nm_pessoa "Santos E."
+		cti:autoria artigo-cti-8
+	]
+
+	instance autor-silva-m-f : cti:Autor [
+		cti:id_pessoa 85
+		cti:nm_pessoa "Silva M.F."
+		cti:autoria artigo-cti-8
+	]
+
+    instance autor-andrade-e : cti:Autor [
+        cti:id_pessoa 86
+        cti:nm_pessoa "Andrade E."
+        cti:autoria artigo-cti-13
+    ]
+
+
+
+
 }

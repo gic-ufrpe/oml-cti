@@ -1,7 +1,87 @@
 [
     {
+        "titulo": "The role of team diversity in AI systems development",
+        "data_publicacao": "2026-07-01",
+        "periodico": "Empirical Software Engineering",
+        "ISSN": "13823256",
+        "autores": [
+            {
+                "nome": "de Santos R.S.",
+                "afiliacoes": [
+                    "University of Calgary"
+                ]
+            },
+            {
+                "nome": "Baldassarre M.T.",
+                "afiliacoes": [
+                    "Università degli studi di Bari Aldo Moro"
+                ]
+            },
+            {
+                "nome": "Magalhaes C.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            }
+        ],
+        "doi": "10.1007/s10664-025-10755-6"
+    },
+    {
+        "titulo": "Architecture of the avalia+Tec platform with cryptographic security for transparent and auditable selection processes",
+        "data_publicacao": "2026-06-01",
+        "periodico": "Softwarex",
+        "ISSN": null,
+        "autores": [
+            {
+                "nome": "Santos L.D.V.",
+                "afiliacoes": [
+                    "Universidade Estadual de Feira de Santana"
+                ]
+            },
+            {
+                "nome": "Oliveira C.V.d.S.",
+                "afiliacoes": [
+                    "Université Fédérale de Sergipe"
+                ]
+            },
+            {
+                "nome": "Santos D.P.V.",
+                "afiliacoes": [
+                    "Universidade Tiradentes"
+                ]
+            },
+            {
+                "nome": "Azevedo T.C.",
+                "afiliacoes": [
+                    "Universidade Estadual de Feira de Santana"
+                ]
+            },
+            {
+                "nome": "Filho R.N.d.A.",
+                "afiliacoes": [
+                    "Universidade Federal Rural de Pernambuco"
+                ]
+            },
+            {
+                "nome": "Santos J.M.d.",
+                "afiliacoes": [
+                    "Universidade Estadual de Santa Cruz"
+                ]
+            },
+            {
+                "nome": "Fernandes M.M.",
+                "afiliacoes": [
+                    "Université Fédérale de Sergipe"
+                ]
+            }
+        ],
+        "doi": "10.1016/j.softx.2026.102614"
+    },
+    {
         "titulo": "Regular orders for triangular fuzzy numbers and the weak law of trichotomy",
         "data_publicacao": "2026-06-01",
+        "periodico": "Fuzzy Sets and Systems",
+        "ISSN": "01650114",
         "autores": [
             {
                 "nome": "Santos J.C.d.",
@@ -15,6 +95,8 @@
     {
         "titulo": "The Influence of Cascade Dams on Multifractality of River Flow",
         "data_publicacao": "2026-03-01",
+        "periodico": "Sustainability Switzerland",
+        "ISSN": null,
         "autores": [
             {
                 "nome": "Stosic T.",
@@ -40,6 +122,8 @@
     {
         "titulo": "S-iNAS: A Performance-Centric SRN Modeling and Analysis of Time and Event Based Scaling Strategies in Ceph-Based Industrial Network-Attached Storage",
         "data_publicacao": "2026-03-01",
+        "periodico": "Journal of Network and Systems Management",
+        "ISSN": "10647570",
         "autores": [
             {
                 "nome": "Lim D.",
@@ -127,6 +211,8 @@
     {
         "titulo": "Correction: Challenges and Opportunities for New Frontiers and Technologies to Guarantee Food Production (Sustainability, (2025), 17, 9, (3792), 10.3390/su17093792)",
         "data_publicacao": "2026-02-01",
+        "periodico": "Sustainability Switzerland",
+        "ISSN": null,
         "autores": [
             {
                 "nome": "Silva J.C.F.",
@@ -203,6 +289,8 @@
     {
         "titulo": "Selecting Consensus Algorithm Integrations in a DAG-based Blockchain for IoT Using Genetic Algorithms",
         "data_publicacao": "2026-01-09",
+        "periodico": "Journal of Internet Services and Applications",
+        "ISSN": "18674828",
         "autores": [
             {
                 "nome": "de Morais A.M.",
@@ -228,6 +316,8 @@
     {
         "titulo": "Impact of Image Resolution on Drone Surveillance System Availability: A Stochastic Petri Net Approach",
         "data_publicacao": "2026-01-01",
+        "periodico": "Communications in Computer and Information Science",
+        "ISSN": "18650929",
         "autores": [
             {
                 "nome": "Borges I.",
@@ -259,6 +349,8 @@
     {
         "titulo": "Neural Networks with Adaptive and Trainable Activation Functions Applied to Solve Stochastic Differential Equations",
         "data_publicacao": "2026-01-01",
+        "periodico": "Lecture Notes in Computer Science",
+        "ISSN": "03029743",
         "autores": [
             {
                 "nome": "Felix I.d.A.",
@@ -284,6 +376,8 @@
     {
         "titulo": "Increasing Time Series Forecasting Performance with Dynamic System Copula-Based Ensemble Models",
         "data_publicacao": "2026-01-01",
+        "periodico": "Lecture Notes in Computer Science",
+        "ISSN": "03029743",
         "autores": [
             {
                 "nome": "Neto A.",
@@ -309,6 +403,8 @@
     {
         "titulo": "A Comprehensive Study of Fitness Landscapes in AutoML: The Impact of Dataset Complexity and Search Space Neutrality",
         "data_publicacao": "2026-01-01",
+        "periodico": "Lecture Notes in Computer Science",
+        "ISSN": "03029743",
         "autores": [
             {
                 "nome": "França T.R.",
@@ -334,6 +430,8 @@
     {
         "titulo": "The Turner 2-Strings Machines",
         "data_publicacao": "2026-01-01",
+        "periodico": "Lecture Notes in Computer Science",
+        "ISSN": "03029743",
         "autores": [
             {
                 "nome": "Lins R.D.",
@@ -348,6 +446,8 @@
     {
         "titulo": "A Research Agenda for the Living SysML V2 Blueprint: Toward Executable, Verifiable, and Navigable System Models",
         "data_publicacao": "2026-01-01",
+        "periodico": "Lecture Notes in Computer Science",
+        "ISSN": "03029743",
         "autores": [
             {
                 "nome": "Teodorov C.",
@@ -388,6 +488,8 @@
     {
         "titulo": "Tutoria: Delivering Personalized Feedback at Scale with Artificial Intelligence",
         "data_publicacao": "2026-01-01",
+        "periodico": "Lecture Notes in Computer Science",
+        "ISSN": "03029743",
         "autores": [
             {
                 "nome": "da Costa N.T.",
@@ -440,6 +542,8 @@
     {
         "titulo": "SIMBA: A Tool for Designing Generative AI Agents for Reflective Learning and Critical Thinking",
         "data_publicacao": "2026-01-01",
+        "periodico": "Lecture Notes in Computer Science",
+        "ISSN": "03029743",
         "autores": [
             {
                 "nome": "Ferrettini G.",
@@ -471,6 +575,8 @@
     {
         "titulo": "Preface",
         "data_publicacao": "2026-01-01",
+        "periodico": "Lecture Notes in Computer Science",
+        "ISSN": "03029743",
         "autores": [
             {
                 "nome": "Tammets K.",
@@ -508,6 +614,8 @@
     {
         "titulo": "Improving power consumption in IoT devices through neural network-based decision making",
         "data_publicacao": "2026-01-01",
+        "periodico": "Internet of Things the Netherlands",
+        "ISSN": null,
         "autores": [
             {
                 "nome": "Da Silva V.G.",
@@ -539,6 +647,8 @@
     {
         "titulo": "From Diverse Origins to a DEI Crisis: The Pushback Against Equity, Diversity, and Inclusion in Software Engineering",
         "data_publicacao": "2026-01-01",
+        "periodico": "Lecture Notes in Computer Science",
+        "ISSN": "03029743",
         "autores": [
             {
                 "nome": "de Souza Santos R.",
@@ -570,6 +680,8 @@
     {
         "titulo": "Ethical Design and Child Protection in Platformized Education",
         "data_publicacao": "2026-01-01",
+        "periodico": "Lecture Notes in Computer Science",
+        "ISSN": "03029743",
         "autores": [
             {
                 "nome": "Valença G.",
@@ -613,6 +725,8 @@
     {
         "titulo": "Preface",
         "data_publicacao": "2026-01-01",
+        "periodico": "Lecture Notes in Computer Science",
+        "ISSN": "03029743",
         "autores": [
             {
                 "nome": "Tammets K.",

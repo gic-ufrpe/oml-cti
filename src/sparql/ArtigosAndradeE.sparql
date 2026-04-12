@@ -4,7 +4,7 @@ SELECT ?titulo ?doi ?ano
 WHERE {
   # Filtramos diretamente pelo nome do autor definido na instância
   ?autor a cti:Autor ;
-         cti:nm_pessoa "Gustavo Callou" ;
+         cti:nm_pessoa "Andrade E." ;
          cti:autoria ?artigo .
 
   ?artigo cti:nm_titulo ?titulo ;
