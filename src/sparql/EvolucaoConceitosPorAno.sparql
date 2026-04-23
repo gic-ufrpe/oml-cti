@@ -1,0 +1,34 @@
+PREFIX cti:  <http://gic.ufrpe.br/cti/vocabulary/cti#>
+
+# Consulta: Evolução dos Conceitos dos Programas ao Longo dos Anos
+# Objetivo: Mostrar como os conceitos (avaliações CAPES) dos PPGs evoluem ao longo
+#           dos quadriênios de avaliação (2016, 2020, 2024)
+# 
+# Resultado: Para cada programa, exibe todos seus conceitos em ordem cronológica,
+#            facilitando análise de melhora, estabilidade ou queda de avaliações
+#
+# Colunas:
+# - siglaIct: Sigla da instituição que sedia o programa
+# - nomeIct: Nome completo da instituição
+# - codigoPpg: Código único do programa (CD_PROGRAMA_IES)
+# - nomePpg: Nome do programa de pós-graduação
+# - modalidade: Tipo de programa (ACADÊMICO ou PROFISSIONAL)
+# - ano: Quadriênio de avaliação (2016, 2020, 2024)
+# - conceito: Nota da avaliação CAPES (1-7 ou 'A' para aprovado)
+
+SELECT ?siglaIct ?nomeIct ?codigoPpg ?nomePpg ?modalidade ?ano ?conceito
+WHERE {
+	?ppg a cti:PPG ;
+		cti:cd_programa_ies ?codigoPpg ;
+		cti:nm_programa_ies ?nomePpg ;
+		cti:nm_modalidade_programa ?modalidade ;
+		cti:sediado ?ict ;
+		cti:avaliado ?conceitoInd .
+
+	?ict cti:sg_entidade_ensino ?siglaIct ;
+		 cti:nm_entidade_ensino ?nomeIct .
+
+	?conceitoInd cti:cd_conceito_programa ?conceito ;
+				 cti:an_base_conceito ?ano .
+}
+ORDER BY ?siglaIct ?nomeIct ?codigoPpg ?nomePpg ?ano

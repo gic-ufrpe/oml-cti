@@ -15,3 +15,6 @@ fuseki.pid
 
 # Configurações específicas do Eclipse
 # .settings/
+
+# Volume Fuseki
+/data/fuseki/

@@ -1,0 +1,16 @@
+PREFIX cti: <http://gic.ufrpe.br/cti/vocabulary/cti#>
+### Consulta: Lista detalhada de produções de um autor específico
+### Objetivo: Recuperar títulos, anos e veículos de publicação para um autor (ex: Nascimento A.).
+SELECT ?ano ?titulo ?veiculo
+WHERE {
+ ?autor a cti:Autor ;
+        cti:nm_pessoa "Marinho M." ;
+        cti:autoria ?artigo .
+       
+ ?artigo cti:nm_titulo ?titulo ;
+         cti:an_base_producao ?ano ;
+         cti:publicada ?veiculoInd .
+        
+ ?veiculoInd cti:nm_veiculo_publicacao ?veiculo .
+}
+ORDER BY DESC(?ano)

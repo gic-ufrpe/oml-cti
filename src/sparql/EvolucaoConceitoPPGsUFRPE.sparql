@@ -1,0 +1,17 @@
+PREFIX cti: <http://gic.ufrpe.br/cti/vocabulary/cti#>
+### Consulta: Evolução dos conceitos CAPES para programas de uma ICT específica
+### Objetivo: Mostrar a trajetória de qualidade dos programas da UFRPE.
+SELECT ?nomePPG ?conceito ?ano
+WHERE {
+ ?ict a cti:ICT ;
+      cti:sg_entidade_ensino "UFRPE" .
+     
+ ?ppg a cti:PPG ;
+      cti:sediado ?ict ;
+      cti:nm_programa_ies ?nomePPG ;
+      cti:avaliado ?av .
+     
+ ?av cti:cd_conceito_programa ?conceito ;
+     cti:an_base_conceito ?ano .
+}
+ORDER BY ?nomePPG ?ano

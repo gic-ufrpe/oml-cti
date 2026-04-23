@@ -1,0 +1,21 @@
+PREFIX cti: <http://gic.ufrpe.br/cti/vocabulary/cti#>
+### Consulta: Ranking de Colaboração e Densidade por Veículo de Publicação
+### Objetivo: Identificar quais periódicos/conferências concentram o maior volume de produção e qual a média de autores por trabalho (índice de colaboração).
+### Complexidade: Uso de múltiplas agregações, cálculos aritméticos no SELECT e filtro HAVING.
+SELECT ?nomeVeiculo
+      (COUNT(DISTINCT ?artigo) AS ?totalArtigos)
+      (COUNT(DISTINCT ?autor) AS ?totalAutoresDistintos)
+      (MAX(?ano) AS ?anoUltimaPublicacao)
+      (ROUND((COUNT(DISTINCT ?autor) * 1.0) / COUNT(DISTINCT ?artigo)) AS ?mediaAutoresPorArtigo)
+WHERE {
+ ?veiculo a cti:Veiculo_Publicacao ;
+          cti:nm_veiculo_publicacao ?nomeVeiculo .
+  ?artigo cti:publicada ?veiculo ;
+         cti:an_base_producao ?ano .
+  ?autor a cti:Autor ;
+        cti:autoria ?artigo .
+}
+GROUP BY ?nomeVeiculo
+HAVING (?totalArtigos > 1)
+ORDER BY DESC(?totalArtigos) DESC(?mediaAutoresPorArtigo)
+
